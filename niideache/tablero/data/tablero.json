@@ -1,5 +1,5 @@
 {
- "actualizado": "12/11 15:13",
+ "actualizado": "12/11 16:04",
  "stats": "Suscriptores: 7 | Vistas de Shorts (90 días): 4.135\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -13,7 +13,7 @@
    "panel": {},
    "estado": "IG por API 13:00 (YouTube ya programado)",
    "pausado": false,
-   "aprobado": false,
+   "aprobado": true,
    "cambio": "",
    "video": "videos/2026-11-13-a.mp4"
   },
