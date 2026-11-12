@@ -1,0 +1,48 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tablero · Ni idea, che</title><meta name="robots" content="noindex">
+<style>
+:root{--bg:#0b0e14;--card:#141a26;--ink:#F3EFE6;--dim:#8A93A6;--red:#ff2e88;--ok:#2ecc71;--warn:#f0a23b}
+*{box-sizing:border-box;margin:0;padding:0}body{background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,sans-serif;padding:18px 14px 60px;max-width:640px;margin:auto}
+h1{font-size:26px;margin-bottom:2px}h1 b{color:var(--red)}.sub{color:var(--dim);font-size:13px;margin-bottom:16px}
+.stats{background:var(--card);border-radius:14px;padding:12px 14px;font:13px/1.6 ui-monospace,monospace;white-space:pre-wrap;margin-bottom:18px;color:#cfd6e4}
+.dia{font-weight:700;margin:22px 0 10px;color:var(--dim);text-transform:uppercase;font-size:13px;letter-spacing:.06em}
+.card{background:var(--card);border-radius:16px;padding:14px;margin-bottom:14px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}.hora{font-weight:800;font-size:18px}
+.st{font-size:12px;padding:4px 10px;border-radius:20px;background:#2a3142;white-space:nowrap}.st.pub{background:#163d2a;color:var(--ok)}.st.pau{background:#3d2a16;color:var(--warn)}.st.err{background:#3d1622;color:#ff7a9a}
+.tit{font-weight:700;margin-bottom:6px}.est{color:var(--dim);font-size:12px;margin-bottom:8px}
+video{width:100%;max-height:520px;border-radius:12px;background:#000;margin:6px 0}
+details{margin:6px 0;font-size:14px;color:#cfd6e4}summary{cursor:pointer;color:var(--dim)}details p{margin-top:6px;line-height:1.45;white-space:pre-wrap}
+.pan{font-size:13px;color:#cfd6e4;margin:6px 0}.pan b{color:var(--red)}
+.btns{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}.btns a{flex:1;text-align:center;text-decoration:none;font-weight:700;font-size:14px;padding:11px 6px;border-radius:12px;color:#fff;background:#2a3142}
+.btns a.ap{background:var(--ok);color:#06210f}.btns a.pa{background:#4a3520}.btns a.ca{background:var(--red)}
+.cam{background:#2b1a24;border-left:3px solid var(--red);padding:8px 10px;border-radius:8px;font-size:13px;margin-top:8px}
+</style></head><body>
+<h1><b>ni</b> idea, che · tablero</h1><div class="sub" id="upd">cargando…</div>
+<div class="stats" id="stats"></div><div id="list"></div>
+<script>
+const R='https://github.com/jorcabj12/ni-idea-che-reels/issues/new?title=';
+const lk=(a,f,x,b='')=>R+encodeURIComponent(`${a} ${f} ${x}`)+(b?'&body='+encodeURIComponent(b):'');
+const esc=s=>(s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+fetch('data/tablero.json?'+Date.now()).then(r=>r.json()).then(d=>{
+ document.getElementById('upd').textContent='Actualizado '+d.actualizado;
+ document.getElementById('stats').textContent=d.stats||'';
+ let html='',last='';const dias={};
+ d.reels.sort((a,b)=>a.fecha<b.fecha?1:a.fecha>b.fecha?-1:a.hora<b.hora?-1:1);
+ for(const r of d.reels){
+  if(r.fecha!==last){last=r.fecha;const dt=new Date(r.fecha+'T12:00');html+=`<div class="dia">${dt.toLocaleDateString('es-AR',{weekday:'long',day:'numeric',month:'numeric'})}</div>`}
+  const pub=r.estado.startsWith('publicado'),err=r.estado.startsWith('error');
+  const st=r.pausado?['pau','⏸ pausado']:pub?['pub','✓ publicado']:err?['err','⚠ error']:r.video?['','listo']:['','guion'];
+  const p=r.panel&&r.panel.ganchos?`<div class="pan">Panel: ${r.panel.ganchos.map((g,i)=>`${i===0?'<b>':''}${esc(g.texto||g[0]||g)} (${g.puntaje??g[1]??''})${i===0?'</b>':''}`).join(' · ')}</div>`:'';
+  html+=`<div class="card"><div class="top"><span class="hora">${r.hora}</span><span class="st ${st[0]}">${st[1]}</span></div>
+  <div class="tit">${esc(r.titulo)||'(sin título todavía)'}</div><div class="est">${esc(r.estilo)}</div>
+  ${r.video?`<video src="data/${r.video}" controls playsinline preload="metadata"></video>`:''}${p}
+  <details><summary>Guion</summary><p>${esc(r.guion)}</p></details>
+  <details><summary>Texto (IG / TikTok)</summary><p>${esc(r.caption)}</p></details>
+  ${r.cambio?`<div class="cam">Cambio pedido: ${esc(r.cambio)}</div>`:''}
+  ${pub?'':`<div class="btns"><a class="ap" href="${lk('aprobar',r.fecha,r.slot)}">✓ Aprobar</a>
+  ${r.pausado?`<a class="pa" href="${lk('reanudar',r.fecha,r.slot)}">▶ Reanudar</a>`:`<a class="pa" href="${lk('pausar',r.fecha,r.slot)}">⏸ Pausar</a>`}
+  <a class="ca" href="${lk('cambio',r.fecha,r.slot,'Escribí acá qué cambiar: ')}">✎ Cambio</a></div>`}</div>`;
+ }
+ document.getElementById('list').innerHTML=html||'<div class="card">Todavía no hay reels.</div>';
+}).catch(e=>{document.getElementById('upd').textContent='No se pudo cargar: '+e});
+</script></body></html>
