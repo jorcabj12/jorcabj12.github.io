@@ -1,6 +1,6 @@
 {
- "actualizado": "12/11 16:04",
- "stats": "Suscriptores: 7 | Vistas de Shorts (90 días): 4.135\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "12/11 17:47",
+ "stats": "Suscriptores: 7 | Vistas de Shorts (90 días): 7.046\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-13",
@@ -51,8 +51,8 @@
    "fecha": "2026-11-12",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "¿Cuánto enfría un ventilador? Cero #shorts",
+   "caption": "Un ventilador no enfría el cuarto ni un grado 🌀 Encima el motor larga ~50 W de calor.\n¿Por qué te alivia? Tu cuerpo larga 100 W (como una lamparita) y el viento te saca el aire tibio y seca el sudor: sentís ~3° menos.\n\nEnfría a la gente, no al cuarto. Si no hay nadie, apagalo 💡\n\n¿Lo dejás prendido toda la noche? Comentá 👇\n\n#ventilador #calor #fisica #niideache",
    "guion": "Vuelve el calor y prendés el ventilador. ¿Cuántos grados le baja al cuarto? Cero. Y encima el motor larga cincuenta watts de calor. ¿Y por qué te alivia? Tu cuerpo larga cien watts, como una lamparita. El viento te saca el aire tibio y te seca el sudor: sentís tres grados menos. Enfría a la gente, no al cuarto. Si no hay nadie, apagalo.",
    "estilo": "Lego",
    "panel": {},
@@ -60,7 +60,7 @@
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-12-b.mp4"
   },
   {
    "fecha": "2026-11-11",
