@@ -1,5 +1,5 @@
 {
- "actualizado": "13/11 08:52",
+ "actualizado": "13/11 10:02",
  "stats": "Suscriptores: 7 | Vistas de Shorts (90 días): 7.046\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -21,12 +21,27 @@
    "fecha": "2026-11-13",
    "slot": "a",
    "hora": "13:00",
-   "titulo": "Una soga alrededor de la Tierra #shorts",
-   "caption": "Rodeás la Tierra con una soga y le agregás 1 metro: se levanta 16 cm 🌍 (1 m ÷ 2π). Y pasa lo mismo con una pelota.\n\n¿Te lo esperabas? Comentá 👇\n\n#acertijo #geometria #datoscuriosos #matematica #fisica #shorts",
-   "guion": "",
-   "estilo": "",
-   "panel": {},
-   "estado": "publicado Instagram: https://www.instagram.com/reel/DfqqjKMEsSS/",
+   "titulo": "El día que tuvo 10 horas #shorts",
+   "caption": "En 1793 Francia probó días de 10 horas ⏰ Cada hora tenía 100 minutos y duraba 2 h 24 min de las nuestras. No duró ni un año y medio.\n\n¿Y por qué 60? Se divide por 12 números; el 100, solo por 9.\n\n¿Lo usarías? Comentá 👇\n\n#reloj #historia #matematica #niideache",
+   "guion": "En Francia, el día tuvo diez horas. Cada hora, cien minutos, y cada minuto, cien segundos. Una hora francesa duraba dos horas veinticuatro. Casi nadie la usó: la abandonaron en menos de un año y medio. ¿Y por qué sesenta? Por los babilonios: sesenta se divide justo por doce números. Cien, solo por nueve.",
+   "estilo": "glow sketch",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "En Francia, el día tuvo diez horas.",
+      "puntaje": 3.82
+     },
+     {
+      "texto": "Una hora francesa duraba 2 horas 24 minutos.",
+      "puntaje": 3.49
+     },
+     {
+      "texto": "¿Por qué la hora no tiene 100 minutos?",
+      "puntaje": 3.24
+     }
+    ]
+   },
+   "estado": "listo para 13:00 (YouTube + Instagram + TikTok)",
    "pausado": false,
    "aprobado": true,
    "cambio": "",
