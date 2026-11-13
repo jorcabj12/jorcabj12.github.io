@@ -1,5 +1,5 @@
 {
- "actualizado": "13/11 03:58",
+ "actualizado": "13/11 08:52",
  "stats": "Suscriptores: 7 | Vistas de Shorts (90 días): 7.046\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -31,6 +31,45 @@
    "aprobado": true,
    "cambio": "",
    "video": "videos/2026-11-13-a.mp4"
+  },
+  {
+   "fecha": "2026-11-13",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "El trece cae más en viernes que en cualquier otro día. En cuatrocientos años de calendario, cae seiscientas ochenta y ocho veces en viernes. Jueves y sábado, apenas seiscientas ochenta y cuatro. Todo año tiene entre uno y tres. Y hoy es el último de este año. Igual, acá el de mala suerte es el martes.",
+   "estilo": "pixel noche",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "El 13 cae más en viernes que en cualquier otro día.",
+      "puntaje": 3.71,
+      "frena": 3.8,
+      "entero": 3.87,
+      "comenta": 3.47
+     },
+     {
+      "texto": "¿Qué día de la semana cae más veces el 13?",
+      "puntaje": 3.27,
+      "frena": 3.2,
+      "entero": 3.2,
+      "comenta": 3.4
+     },
+     {
+      "texto": "Hoy es el último viernes 13 del año.",
+      "puntaje": 3.11,
+      "frena": 3.4,
+      "entero": 3.0,
+      "comenta": 2.93
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
   },
   {
    "fecha": "2026-11-12",
