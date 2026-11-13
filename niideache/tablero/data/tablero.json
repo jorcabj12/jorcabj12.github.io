@@ -1,7 +1,22 @@
 {
- "actualizado": "12/11 20:43",
+ "actualizado": "13/11 03:58",
  "stats": "Suscriptores: 7 | Vistas de Shorts (90 días): 7.046\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-14",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "Tu mezcla es única en la historia #shorts",
+   "caption": "Cada vez que mezclás un mazo de 40 cartas, casi seguro armás un orden que nunca existió 🃏 40! es un 8 seguido de 47 cifras.\n\n¿Lo sabías? Comentá 👇\n\n#cartas #factorial #datoscuriosos #matematica #probabilidad #shorts",
+   "guion": "",
+   "estilo": "",
+   "panel": {},
+   "estado": "IG por API 13:00 (YouTube ya programado)",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": "videos/2026-11-14-a.mp4"
+  },
   {
    "fecha": "2026-11-13",
    "slot": "a",
@@ -11,7 +26,7 @@
    "guion": "",
    "estilo": "",
    "panel": {},
-   "estado": "IG por API 13:00 (YouTube ya programado)",
+   "estado": "publicado Instagram: https://www.instagram.com/reel/DfqqjKMEsSS/",
    "pausado": false,
    "aprobado": true,
    "cambio": "",
@@ -76,21 +91,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-11-b.mp4"
-  },
-  {
-   "fecha": "2026-11-10",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "¿Cuánto tardás en recitar el Martín Fierro entero? #shorts",
-   "caption": "¿Cuánto tardás en recitar el Martín Fierro entero? 🧉 7.210 versos = 5 horas sin parar. Feliz Día de la Tradición. #niideache #datoscuriosos #martinfierro #diadelatradicion",
-   "guion": "Hoy es el Día de la Tradición. ¿Cuánto tardás en recitar el Martín Fierro entero? La Ida y La Vuelta suman siete mil doscientos diez versos. Casi todos en estrofas de seis: unas mil doscientas. A quince segundos cada una, son cinco horas sin parar. Tres partidos de fútbol seguidos.",
-   "estilo": "pizarrón",
-   "panel": {},
-   "estado": "publicado YouTube: https://youtube.com/shorts/MB-t35zpuq4 | Instagram: https://www.instagram.com/reel/Dfk4eJHgq-e/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-10-b.mp4"
   }
  ]
 }
