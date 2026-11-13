@@ -1,6 +1,6 @@
 {
- "actualizado": "13/11 14:17",
- "stats": "Suscriptores: 8 | Vistas de Shorts (90 días): 7.046\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "13/11 17:47",
+ "stats": "Suscriptores: 8 | Vistas de Shorts (90 días): 9.412\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-14",
@@ -51,8 +51,8 @@
    "fecha": "2026-11-13",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "El 13 cae más en viernes que en cualquier otro día #shorts",
+   "caption": "El 13 cae más en viernes que en cualquier otro día 📅 En 400 años de calendario: 688 viernes 13. Jueves y sábado, apenas 684.\n\nHoy es el último de 2026. Igual, acá el de mala suerte es el martes 🐈‍⬛\n\n¿Cuál te da más miedo? Comentá 👇\n\n#viernes13 #calendario #matematica #niideache",
    "guion": "El trece cae más en viernes que en cualquier otro día. En cuatrocientos años de calendario, cae seiscientas ochenta y ocho veces en viernes. Jueves y sábado, apenas seiscientas ochenta y cuatro. Todo año tiene entre uno y tres. Y hoy es el último de este año. Igual, acá el de mala suerte es el martes.",
    "estilo": "pixel noche",
    "panel": {
@@ -80,11 +80,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo para 19:00 (YouTube + Instagram + TikTok)",
    "pausado": false,
-   "aprobado": false,
+   "aprobado": true,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-13-b.mp4"
   },
   {
    "fecha": "2026-11-12",
