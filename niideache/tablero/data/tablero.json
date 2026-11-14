@@ -1,5 +1,5 @@
 {
- "actualizado": "14/11 03:45",
+ "actualizado": "14/11 08:51",
  "stats": "Suscriptores: 8 | Vistas de Shorts (90 días): 9.412\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -31,6 +31,45 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-14-a.mp4"
+  },
+  {
+   "fecha": "2026-11-14",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Los electrones del cable de tu cargador van más lento que un caracol. En un cable de casa avanzan menos de un décimo de milímetro por segundo. Y encima, como la corriente es alterna, cambian de dirección cincuenta veces por segundo: van y vuelven, y nunca llegan al celular. Lo que viaja casi a la velocidad de la luz es la energía, que los empuja a todos a la vez. ¿Lo sabías?",
+   "estilo": "comic",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Los electrones de tu cargador van más lento que un caracol.",
+      "puntaje": 4.29,
+      "frena": 4.53,
+      "entero": 4.27,
+      "comenta": 4.07
+     },
+     {
+      "texto": "Enchufás el cargador: ¿qué tan rápido viajan los electrones por el cable?",
+      "puntaje": 3.24,
+      "frena": 3.13,
+      "entero": 3.47,
+      "comenta": 3.13
+     },
+     {
+      "texto": "La electricidad no viaja por el cable como pensás.",
+      "puntaje": 3.2,
+      "frena": 3.2,
+      "entero": 3.07,
+      "comenta": 3.33
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
   },
   {
    "fecha": "2026-11-13",
