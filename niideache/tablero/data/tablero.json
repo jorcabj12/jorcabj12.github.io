@@ -1,7 +1,22 @@
 {
- "actualizado": "13/11 20:42",
+ "actualizado": "14/11 03:45",
  "stats": "Suscriptores: 8 | Vistas de Shorts (90 días): 9.412\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-15",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "El PIN más usado #shorts",
+   "caption": "De 3,4 millones de claves de 4 dígitos filtradas, el 1234 era casi el 11% 🔐 Con 1234, 1111 y 0000 adivinás casi 1 de cada 5. (Fuente: análisis DataGenetics)\n\n¿Tu PIN está en la lista? No lo comentes 😅\n\n#seguridad #pin #datoscuriosos #tecnologia #ciberseguridad #shorts",
+   "guion": "",
+   "estilo": "",
+   "panel": {},
+   "estado": "IG por API 13:00 (YouTube ya programado)",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": "videos/2026-11-15-a.mp4"
+  },
   {
    "fecha": "2026-11-14",
    "slot": "a",
@@ -130,21 +145,6 @@
    "aprobado": true,
    "cambio": "",
    "video": "videos/2026-11-12-b.mp4"
-  },
-  {
-   "fecha": "2026-11-11",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "¿Por qué ves 11:11 tan seguido? #shorts",
-   "caption": "Hoy es 11/11 🕚 ¿Por qué ves 11:11 en el reloj tan seguido? El día tiene 1.440 minutos y mirás el celu unas 100 veces: te lo cruzás cada 2 semanas. Y como te llama la atención, te acordás. Las 10:37, nunca. No es una señal: es estadística.\n\n¿A vos te pasa? Comentá 👇\n\n#1111 #probabilidad #sesgodeconfirmacion #niideache",
-   "guion": "Hoy es once del once. ¿Por qué ves las once y once en el reloj tan seguido? El día tiene mil cuatrocientos cuarenta minutos. Las once y once es uno solo. Pero mirás el celular unas cien veces por día. Te lo cruzás cada dos semanas. Y como te llama la atención, te acordás. Las diez treinta y siete, nunca. No es una señal: es estadística.",
-   "estilo": "minimal negro",
-   "panel": {},
-   "estado": "publicado YouTube: https://youtube.com/shorts/uIKy7PGVIFY | Instagram: https://www.instagram.com/reel/Dfni1ifEXR1/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-11-b.mp4"
   }
  ]
 }
