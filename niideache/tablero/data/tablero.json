@@ -1,6 +1,6 @@
 {
- "actualizado": "14/11 12:53",
- "stats": "Suscriptores: 8 | Vistas de Shorts (90 días): 9.412\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "14/11 17:47",
+ "stats": "Suscriptores: 8 | Vistas de Shorts (90 días): 10.414\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-15",
@@ -36,9 +36,9 @@
    "fecha": "2026-11-14",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
-   "guion": "Los electrones del cable de tu cargador van más lento que un caracol. En un cable de casa avanzan menos de un décimo de milímetro por segundo. Y encima, como la corriente es alterna, cambian de dirección cincuenta veces por segundo: van y vuelven, y nunca llegan al celular. Lo que viaja casi a la velocidad de la luz es la energía, que los empuja a todos a la vez. ¿Lo sabías?",
+   "titulo": "Los electrones de tu cargador van más lento que un caracol #shorts",
+   "caption": "Los electrones de tu cargador van más lento que un caracol 🐌⚡ Menos de 0,1 mm por segundo, y encima van y vuelven 100 veces por segundo: nunca llegan al celu.\n\nLo rápido es la energía, que viaja casi a la velocidad de la luz y los empuja a todos a la vez.\n\n¿Lo sabías? Comentá 👇\n\n#electricidad #fisica #ciencia #niideache",
+   "guion": "Los electrones del cable de tu cargador van más lento que un caracol. En un cable de casa avanzan menos de un décimo de milímetro por segundo. Encima, la corriente alterna los da vuelta cien veces por segundo: van y vuelven, y nunca llegan al celular. Lo que viaja casi a la velocidad de la luz es la energía: los empuja a todos a la vez.",
    "estilo": "comic",
    "panel": {
     "ganchos": [
@@ -65,11 +65,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo 19:00",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-14-b.mp4"
   },
   {
    "fecha": "2026-11-13",
