@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 03:50",
+ "actualizado": "15/11 08:51",
  "stats": "Suscriptores: 9 | Vistas de Shorts (90 días): 10.414\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -31,6 +31,45 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-15-a.mp4"
+  },
+  {
+   "fecha": "2026-11-15",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Un colectivo lleno en verano es como viajar con tres estufas prendidas. Aunque estés quieto, tu cuerpo larga calor todo el tiempo: unos cien watts. Lo mismo que una lamparita vieja prendida. Sesenta pasajeros apretados son seis mil watts. Una estufa eléctrica tira dos mil. Tres estufas al mango. Y sin aire.",
+   "estilo": "isométrico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Un colectivo lleno en verano es como viajar con tres estufas prendidas.",
+      "puntaje": 4.31,
+      "frena": 4.47,
+      "entero": 4.27,
+      "comenta": 4.2
+     },
+     {
+      "texto": "Vos sos una lamparita de cien watts prendida todo el día.",
+      "puntaje": 3.69,
+      "frena": 3.93,
+      "entero": 3.6,
+      "comenta": 3.53
+     },
+     {
+      "texto": "¿Por qué el colectivo lleno es un horno aunque afuera haya sombra?",
+      "puntaje": 3.38,
+      "frena": 3.2,
+      "entero": 3.53,
+      "comenta": 3.4
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
   },
   {
    "fecha": "2026-11-14",
