@@ -1,6 +1,6 @@
 {
- "actualizado": "15/11 13:28",
- "stats": "Suscriptores: 9 | Vistas de Shorts (90 días): 10.414\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "15/11 17:47",
+ "stats": "Suscriptores: 9 | Vistas de Shorts (90 días): 12.840\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-16",
@@ -36,8 +36,8 @@
    "fecha": "2026-11-15",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Un colectivo lleno en verano = 3 estufas prendidas #shorts",
+   "caption": "Un colectivo lleno en verano es como viajar con 3 estufas prendidas 🚌🔥 Tu cuerpo quieto larga unos 100 W de calor, como una lamparita vieja. 60 pasajeros = 6.000 W = 3 estufas de 2.000 W. Y sin aire.\n\n¿En qué línea viajás vos? Comentá 👇\n\n#colectivo #calor #fisica #niideache",
    "guion": "Un colectivo lleno en verano es como viajar con tres estufas prendidas. Aunque estés quieto, tu cuerpo larga calor todo el tiempo: unos cien watts. Lo mismo que una lamparita vieja prendida. Sesenta pasajeros apretados son seis mil watts. Una estufa eléctrica tira dos mil. Tres estufas al mango. Y sin aire.",
    "estilo": "isométrico",
    "panel": {
@@ -65,11 +65,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo, sale 19:00",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-15-b.mp4"
   },
   {
    "fecha": "2026-11-14",
