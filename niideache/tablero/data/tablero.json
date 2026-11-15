@@ -1,7 +1,22 @@
 {
- "actualizado": "14/11 19:36",
- "stats": "Suscriptores: 8 | Vistas de Shorts (90 días): 10.414\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "15/11 03:50",
+ "stats": "Suscriptores: 9 | Vistas de Shorts (90 días): 10.414\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-16",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "¿Te cambiás de puerta? #shorts",
+   "caption": "El problema de Monty Hall 🚪🐐 Si te cambiás de puerta, ganás 2 de cada 3 veces.\n\n¿Te cambiabas o te quedabas? Comentá 👇\n\n#montyhall #paradoja #probabilidad #datoscuriosos #matematica #shorts",
+   "guion": "",
+   "estilo": "",
+   "panel": {},
+   "estado": "IG por API 13:00 (YouTube ya programado)",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": "videos/2026-11-16-a.mp4"
+  },
   {
    "fecha": "2026-11-15",
    "slot": "a",
@@ -65,7 +80,7 @@
      }
     ]
    },
-   "estado": "listo 19:00",
+   "estado": "publicado YouTube: https://youtube.com/shorts/-7RcYa8QSZ8 | Instagram: https://www.instagram.com/reel/DfvUd1KDTmf/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -139,51 +154,6 @@
    "aprobado": true,
    "cambio": "",
    "video": "videos/2026-11-13-b.mp4"
-  },
-  {
-   "fecha": "2026-11-12",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "años para ganar el Quini #shorts",
-   "caption": "Jugando al Quini 6 dos veces por semana, en promedio tardarías 90.000 años en ganar 🎱 (1 en 9.366.819 combinaciones). Las pirámides tienen unos 4.500.\n\n¿Lo seguís jugando? Comentá 👇\n\n#quini6 #loteria #probabilidad #datoscuriosos #matematica #argentina #shorts",
-   "guion": "",
-   "estilo": "",
-   "panel": {},
-   "estado": "publicado Instagram: https://www.instagram.com/reel/DfpkeaCkXml/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-12-a.mp4"
-  },
-  {
-   "fecha": "2026-11-12",
-   "slot": "c",
-   "hora": "16:00",
-   "titulo": "3 trucos para que Claude te responda mejor #shorts",
-   "caption": "Este canal lo arma una IA 🤖 3 trucos para que Claude te responda mejor:\n1️⃣ Dale contexto: quién sos y para qué\n2️⃣ Mostrale un ejemplo\n3️⃣ Pedile que te pregunte antes de responder\n\n¿Cuál vas a probar? Comentá 👇\n\n#claude #inteligenciaartificial #ia #productividad #niideache",
-   "guion": "Este canal lo arma una IA: Claude. Tres trucos para que te responda mejor. Uno: dale contexto. Quién sos y para qué lo querés. Dos: mostrale un ejemplo de lo que buscás. Tres: pedile que te haga preguntas antes de responder. Y chau respuestas genéricas. Probalo hoy.",
-   "estilo": "minimal negro",
-   "panel": {},
-   "estado": "propuesto",
-   "pausado": true,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-12-c.mp4"
-  },
-  {
-   "fecha": "2026-11-12",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "¿Cuánto enfría un ventilador? Cero #shorts",
-   "caption": "Un ventilador no enfría el cuarto ni un grado 🌀 Encima el motor larga ~50 W de calor.\n¿Por qué te alivia? Tu cuerpo larga 100 W (como una lamparita) y el viento te saca el aire tibio y seca el sudor: sentís ~3° menos.\n\nEnfría a la gente, no al cuarto. Si no hay nadie, apagalo 💡\n\n¿Lo dejás prendido toda la noche? Comentá 👇\n\n#ventilador #calor #fisica #niideache",
-   "guion": "Vuelve el calor y prendés el ventilador. ¿Cuántos grados le baja al cuarto? Cero. Y encima el motor larga cincuenta watts de calor. ¿Y por qué te alivia? Tu cuerpo larga cien watts, como una lamparita. El viento te saca el aire tibio y te seca el sudor: sentís tres grados menos. Enfría a la gente, no al cuarto. Si no hay nadie, apagalo.",
-   "estilo": "Lego",
-   "panel": {},
-   "estado": "publicado YouTube: https://youtube.com/shorts/IVH68YUgaUo | Instagram: https://www.instagram.com/reel/DfqKSGPEhVz/",
-   "pausado": false,
-   "aprobado": true,
-   "cambio": "",
-   "video": "videos/2026-11-12-b.mp4"
   }
  ]
 }
