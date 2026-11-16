@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 19:59",
+ "actualizado": "16/11 03:50",
  "stats": "Suscriptores: 9 | Vistas de Shorts (90 días): 12.840\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -65,7 +65,7 @@
      }
     ]
    },
-   "estado": "listo, sale 19:00",
+   "estado": "publicado YouTube: https://youtube.com/shorts/NM3pFiHNWjA | Instagram: https://www.instagram.com/reel/Dfx8faHDKQp/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -124,75 +124,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-14-b.mp4"
-  },
-  {
-   "fecha": "2026-11-13",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "El día que tuvo 10 horas #shorts",
-   "caption": "En 1793 Francia probó días de 10 horas ⏰ Cada hora tenía 100 minutos y duraba 2 h 24 min de las nuestras. No duró ni un año y medio.\n\n¿Y por qué 60? Se divide por 12 números; el 100, solo por 9.\n\n¿Lo usarías? Comentá 👇\n\n#reloj #historia #matematica #niideache",
-   "guion": "En Francia, el día tuvo diez horas. Cada hora, cien minutos, y cada minuto, cien segundos. Una hora francesa duraba dos horas veinticuatro. Casi nadie la usó: la abandonaron en menos de un año y medio. ¿Y por qué sesenta? Por los babilonios: sesenta se divide justo por doce números. Cien, solo por nueve.",
-   "estilo": "glow sketch",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "En Francia, el día tuvo diez horas.",
-      "puntaje": 3.82
-     },
-     {
-      "texto": "Una hora francesa duraba 2 horas 24 minutos.",
-      "puntaje": 3.49
-     },
-     {
-      "texto": "¿Por qué la hora no tiene 100 minutos?",
-      "puntaje": 3.24
-     }
-    ]
-   },
-   "estado": "listo para 13:00 (YouTube + Instagram + TikTok)",
-   "pausado": false,
-   "aprobado": true,
-   "cambio": "",
-   "video": "videos/2026-11-13-a.mp4"
-  },
-  {
-   "fecha": "2026-11-13",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "El 13 cae más en viernes que en cualquier otro día #shorts",
-   "caption": "El 13 cae más en viernes que en cualquier otro día 📅 En 400 años de calendario: 688 viernes 13. Jueves y sábado, apenas 684.\n\nHoy es el último de 2026. Igual, acá el de mala suerte es el martes 🐈‍⬛\n\n¿Cuál te da más miedo? Comentá 👇\n\n#viernes13 #calendario #matematica #niideache",
-   "guion": "El trece cae más en viernes que en cualquier otro día. En cuatrocientos años de calendario, cae seiscientas ochenta y ocho veces en viernes. Jueves y sábado, apenas seiscientas ochenta y cuatro. Todo año tiene entre uno y tres. Y hoy es el último de este año. Igual, acá el de mala suerte es el martes.",
-   "estilo": "pixel noche",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "El 13 cae más en viernes que en cualquier otro día.",
-      "puntaje": 3.71,
-      "frena": 3.8,
-      "entero": 3.87,
-      "comenta": 3.47
-     },
-     {
-      "texto": "¿Qué día de la semana cae más veces el 13?",
-      "puntaje": 3.27,
-      "frena": 3.2,
-      "entero": 3.2,
-      "comenta": 3.4
-     },
-     {
-      "texto": "Hoy es el último viernes 13 del año.",
-      "puntaje": 3.11,
-      "frena": 3.4,
-      "entero": 3.0,
-      "comenta": 2.93
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/CGkwYNYdfRk | Instagram: https://www.instagram.com/reel/DfsqtNbHUtQ/",
-   "pausado": false,
-   "aprobado": true,
-   "cambio": "",
-   "video": "videos/2026-11-13-b.mp4"
   }
  ]
 }
