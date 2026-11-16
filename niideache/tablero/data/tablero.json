@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 03:50",
+ "actualizado": "16/11 08:53",
  "stats": "Suscriptores: 9 | Vistas de Shorts (90 días): 12.840\nNivel 1 (fans): 500 subs [1%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [0%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -16,6 +16,45 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-16-a.mp4"
+  },
+  {
+   "fecha": "2026-11-16",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Con la batería de un Tesla cargás tu celular cuatro mil veces. Tesla llega a Argentina el viernes, y abajo del piso lleva... más de cuatro mil pilitas, apenas más grandes que una doble A. Juntas guardan setenta y cinco mil watts hora. Tu celular, dieciocho. Cuatro mil cargas: una por día, once años.",
+   "estilo": "flat vector",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Con la batería de un Tesla cargás tu celular cuatro mil veces.",
+      "puntaje": 4.24,
+      "frena": 4.4,
+      "entero": 4.2,
+      "comenta": 4.13
+     },
+     {
+      "texto": "Un Tesla lleva más de cuatro mil pilas abajo del piso.",
+      "puntaje": 3.93,
+      "frena": 4.13,
+      "entero": 3.87,
+      "comenta": 3.8
+     },
+     {
+      "texto": "Tesla llega a Argentina el viernes. ¿Sabés qué esconde abajo del piso?",
+      "puntaje": 3.36,
+      "frena": 3.27,
+      "entero": 3.53,
+      "comenta": 3.27
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
   },
   {
    "fecha": "2026-11-15",
