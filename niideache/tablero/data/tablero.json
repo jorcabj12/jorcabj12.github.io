@@ -1,6 +1,6 @@
 {
- "actualizado": "17/11 13:16",
- "stats": "Suscriptores: 12 | Vistas de Shorts (90 días): 15.074\nNivel 1 (fans): 500 subs [2%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "17/11 17:47",
+ "stats": "Suscriptores: 12 | Vistas de Shorts (90 días): 16.317\nNivel 1 (fans): 500 subs [2%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-18",
@@ -75,8 +75,8 @@
    "fecha": "2026-11-17",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Que Claude divida la cuenta del asado #shorts",
+   "caption": "Que Claude divida la cuenta del asado 🥩 Foto al ticket + \"somos 8, Juan no comió carne, Lucía trajo el postre\" y te dice quién pone cuánto (y te arma el mensaje para el grupo). Tip: pedile que muestre la cuenta y chequeala.\n\n¿Quién es el que nunca paga en tu grupo? Etiquetalo 👇\n\n#claude #inteligenciaartificial #asado #niideache",
    "guion": "Sacale una foto al ticket y que Claude divida la cuenta del asado. Le escribís: somos ocho, Juan no comió carne y Lucía trajo el postre. Lee cada renglón, aunque esté arrugado. Te dice quién pone cuánto y te arma el mensaje para el grupo. Pedile que te muestre la cuenta y chequeala. ¿Quién es el que nunca paga en tu grupo?",
    "estilo": "glow sketch",
    "panel": {
@@ -104,11 +104,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-17-b.mp4"
   },
   {
    "fecha": "2026-11-16",
