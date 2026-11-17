@@ -1,5 +1,5 @@
 {
- "actualizado": "17/11 00:59",
+ "actualizado": "17/11 08:52",
  "stats": "Suscriptores: 12 | Vistas de Shorts (90 días): 15.074\nNivel 1 (fans): 500 subs [2%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -19,6 +19,45 @@
   },
   {
    "fecha": "2026-11-17",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Una nube chiquita, de esas blancas, pesa como tres Obeliscos. Mide un kilómetro por lado, con medio gramo de agua en cada metro cúbico. Eso da quinientas toneladas. Cien elefantes. El Obelisco pesa ciento setenta. ¿Y por qué no se cae? Las gotitas son mínimas y el aire que sube las sostiene. Con las tormentas de hoy, ¿cuántos Obeliscos te cayeron encima?",
+   "estilo": "pizarrón",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Una nube chiquita, de esas blancas, pesa como tres Obeliscos.",
+      "puntaje": 4.31,
+      "frena": 4.47,
+      "entero": 4.2,
+      "comenta": 4.27
+     },
+     {
+      "texto": "¿Cuánto pesa una nube? Más que cien elefantes.",
+      "puntaje": 3.96,
+      "frena": 4.07,
+      "entero": 4.0,
+      "comenta": 3.8
+     },
+     {
+      "texto": "Arriba tuyo flotan quinientas toneladas de agua.",
+      "puntaje": 3.62,
+      "frena": 3.8,
+      "entero": 3.6,
+      "comenta": 3.47
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-17",
    "slot": "c",
    "hora": "16:00",
    "titulo": "Tu mezcla es única en la historia #shorts",
@@ -31,6 +70,45 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-17-c.mp4"
+  },
+  {
+   "fecha": "2026-11-17",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Sacale una foto al ticket y que Claude divida la cuenta del asado. Le escribís: somos ocho, Juan no comió carne y Lucía trajo el postre. Lee cada renglón, aunque esté arrugado. Te dice quién pone cuánto y te arma el mensaje para el grupo. Pedile que te muestre la cuenta y chequeala. ¿Quién es el que nunca paga en tu grupo?",
+   "estilo": "glow sketch",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Sacale una foto al ticket y que Claude divida la cuenta del asado.",
+      "puntaje": 4.18,
+      "frena": 4.2,
+      "entero": 4.07,
+      "comenta": 4.27
+     },
+     {
+      "texto": "Dividir la cuenta del asado te lleva diez minutos. Con Claude, diez segundos.",
+      "puntaje": 3.89,
+      "frena": 4.13,
+      "entero": 3.73,
+      "comenta": 3.8
+     },
+     {
+      "texto": "Este canal lo hace una IA, y este es el truco que más uso.",
+      "puntaje": 3.51,
+      "frena": 3.87,
+      "entero": 3.4,
+      "comenta": 3.27
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
   },
   {
    "fecha": "2026-11-16",
