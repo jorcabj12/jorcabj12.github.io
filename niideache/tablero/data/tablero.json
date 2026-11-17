@@ -1,7 +1,22 @@
 {
- "actualizado": "16/11 17:47",
+ "actualizado": "17/11 00:59",
  "stats": "Suscriptores: 12 | Vistas de Shorts (90 días): 15.074\nNivel 1 (fans): 500 subs [2%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-18",
+   "slot": "c",
+   "hora": "16:00",
+   "titulo": "El PIN más usado #shorts",
+   "caption": "De 3,4 millones de claves de 4 dígitos filtradas, el 1234 era casi el 11% 🔐 Con 1234, 1111 y 0000 adivinás casi 1 de cada 5. (Fuente: análisis DataGenetics)\n\n¿Tu PIN está en la lista? No lo comentes 😅\n\n#seguridad #pin #datoscuriosos #tecnologia #ciberseguridad #shorts",
+   "guion": "",
+   "estilo": "",
+   "panel": {},
+   "estado": "extra 16:00 solo Instagram (repuesto del 15/11)",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": "videos/2026-11-18-c.mp4"
+  },
   {
    "fecha": "2026-11-17",
    "slot": "c",
@@ -65,7 +80,7 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "publicado YouTube: https://youtube.com/shorts/27x6pqUeS0w | Instagram: https://www.instagram.com/reel/Df0oznblLDb/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -124,60 +139,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-15-b.mp4"
-  },
-  {
-   "fecha": "2026-11-14",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "Tu mezcla es única en la historia #shorts",
-   "caption": "Cada vez que mezclás un mazo de 40 cartas, casi seguro armás un orden que nunca existió 🃏 40! es un 8 seguido de 47 cifras.\n\n¿Lo sabías? Comentá 👇\n\n#cartas #factorial #datoscuriosos #matematica #probabilidad #shorts",
-   "guion": "",
-   "estilo": "",
-   "panel": {},
-   "estado": "IG por API 13:00 (YouTube ya programado)",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-14-a.mp4"
-  },
-  {
-   "fecha": "2026-11-14",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Los electrones de tu cargador van más lento que un caracol #shorts",
-   "caption": "Los electrones de tu cargador van más lento que un caracol 🐌⚡ Menos de 0,1 mm por segundo, y encima van y vuelven 100 veces por segundo: nunca llegan al celu.\n\nLo rápido es la energía, que viaja casi a la velocidad de la luz y los empuja a todos a la vez.\n\n¿Lo sabías? Comentá 👇\n\n#electricidad #fisica #ciencia #niideache",
-   "guion": "Los electrones del cable de tu cargador van más lento que un caracol. En un cable de casa avanzan menos de un décimo de milímetro por segundo. Encima, la corriente alterna los da vuelta cien veces por segundo: van y vuelven, y nunca llegan al celular. Lo que viaja casi a la velocidad de la luz es la energía: los empuja a todos a la vez.",
-   "estilo": "comic",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Los electrones de tu cargador van más lento que un caracol.",
-      "puntaje": 4.29,
-      "frena": 4.53,
-      "entero": 4.27,
-      "comenta": 4.07
-     },
-     {
-      "texto": "Enchufás el cargador: ¿qué tan rápido viajan los electrones por el cable?",
-      "puntaje": 3.24,
-      "frena": 3.13,
-      "entero": 3.47,
-      "comenta": 3.13
-     },
-     {
-      "texto": "La electricidad no viaja por el cable como pensás.",
-      "puntaje": 3.2,
-      "frena": 3.2,
-      "entero": 3.07,
-      "comenta": 3.33
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/-7RcYa8QSZ8 | Instagram: https://www.instagram.com/reel/DfvUd1KDTmf/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-14-b.mp4"
   }
  ]
 }
