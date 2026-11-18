@@ -1,7 +1,46 @@
 {
- "actualizado": "17/11 22:02",
+ "actualizado": "18/11 08:50",
  "stats": "Suscriptores: 14 | Vistas de Shorts (90 días): 16.317\nNivel 1 (fans): 500 subs [2%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-18",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Doscientos milímetros de lluvia: una bañera llena en cada metro cuadrado. Es lo que esperan en el Litoral esta semana. Un milímetro es un litro por cada metro cuadrado. Doscientos milímetros, doscientos litros en cada metro. En un patio de diez por diez, son veinte mil litros. Veinte toneladas de agua. Un camión cisterna entero.",
+   "estilo": "tipográfico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Doscientos milímetros de lluvia: una bañera llena en cada metro cuadrado.",
+      "puntaje": 4.09,
+      "frena": 4.2,
+      "entero": 4.0,
+      "comenta": 4.07
+     },
+     {
+      "texto": "Esta semana a un patio del Chaco le caen veinte toneladas de agua.",
+      "puntaje": 3.96,
+      "frena": 4.13,
+      "entero": 3.87,
+      "comenta": 3.87
+     },
+     {
+      "texto": "¿Cuánta agua es un milímetro de lluvia? Un litro.",
+      "puntaje": 3.53,
+      "frena": 3.4,
+      "entero": 3.67,
+      "comenta": 3.53
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-18",
    "slot": "c",
@@ -16,6 +55,45 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-18-c.mp4"
+  },
+  {
+   "fecha": "2026-11-18",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Antes de firmar, pegale la letra chica a Claude. Copiás el contrato del alquiler o del plan del celular. Y le preguntás: ¿qué me puede salir caro? Te marca los aumentos, las multas y lo que se renueva solo. Tip: pedile que te cite la cláusula exacta, y leela vos. ¿Qué contrato firmaste sin leer? Comentá y seguinos.",
+   "estilo": "Lego",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Antes de firmar, pegale la letra chica a Claude.",
+      "puntaje": 4.04,
+      "frena": 4.07,
+      "entero": 4.0,
+      "comenta": 4.07
+     },
+     {
+      "texto": "Nadie lee los términos y condiciones. Claude sí, en diez segundos.",
+      "puntaje": 3.91,
+      "frena": 4.13,
+      "entero": 3.8,
+      "comenta": 3.8
+     },
+     {
+      "texto": "Tu contrato de alquiler tiene una trampa, y Claude te la encuentra.",
+      "puntaje": 3.67,
+      "frena": 4.2,
+      "entero": 3.47,
+      "comenta": 3.33
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
   },
   {
    "fecha": "2026-11-17",
@@ -163,60 +241,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-16-b.mp4"
-  },
-  {
-   "fecha": "2026-11-15",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "El PIN más usado #shorts",
-   "caption": "De 3,4 millones de claves de 4 dígitos filtradas, el 1234 era casi el 11% 🔐 Con 1234, 1111 y 0000 adivinás casi 1 de cada 5. (Fuente: análisis DataGenetics)\n\n¿Tu PIN está en la lista? No lo comentes 😅\n\n#seguridad #pin #datoscuriosos #tecnologia #ciberseguridad #shorts",
-   "guion": "",
-   "estilo": "",
-   "panel": {},
-   "estado": "IG por API 13:00 (YouTube ya programado)",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-15-a.mp4"
-  },
-  {
-   "fecha": "2026-11-15",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Un colectivo lleno en verano = 3 estufas prendidas #shorts",
-   "caption": "Un colectivo lleno en verano es como viajar con 3 estufas prendidas 🚌🔥 Tu cuerpo quieto larga unos 100 W de calor, como una lamparita vieja. 60 pasajeros = 6.000 W = 3 estufas de 2.000 W. Y sin aire.\n\n¿En qué línea viajás vos? Comentá 👇\n\n#colectivo #calor #fisica #niideache",
-   "guion": "Un colectivo lleno en verano es como viajar con tres estufas prendidas. Aunque estés quieto, tu cuerpo larga calor todo el tiempo: unos cien watts. Lo mismo que una lamparita vieja prendida. Sesenta pasajeros apretados son seis mil watts. Una estufa eléctrica tira dos mil. Tres estufas al mango. Y sin aire.",
-   "estilo": "isométrico",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Un colectivo lleno en verano es como viajar con tres estufas prendidas.",
-      "puntaje": 4.31,
-      "frena": 4.47,
-      "entero": 4.27,
-      "comenta": 4.2
-     },
-     {
-      "texto": "Vos sos una lamparita de cien watts prendida todo el día.",
-      "puntaje": 3.69,
-      "frena": 3.93,
-      "entero": 3.6,
-      "comenta": 3.53
-     },
-     {
-      "texto": "¿Por qué el colectivo lleno es un horno aunque afuera haya sombra?",
-      "puntaje": 3.38,
-      "frena": 3.2,
-      "entero": 3.53,
-      "comenta": 3.4
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/NM3pFiHNWjA | Instagram: https://www.instagram.com/reel/Dfx8faHDKQp/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-15-b.mp4"
   }
  ]
 }
