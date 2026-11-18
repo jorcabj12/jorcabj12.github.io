@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 17:43",
+ "actualizado": "18/11 17:46",
  "stats": "Suscriptores: 14 | Vistas de Shorts (90 días): 18.783\nNivel 1 (fans): 500 subs [2%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -60,9 +60,9 @@
    "fecha": "2026-11-18",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
-   "guion": "Antes de firmar, pegale la letra chica a Claude. Copiás el contrato del alquiler o del plan del celular. Y le preguntás: ¿qué me puede salir caro? Te marca los aumentos, las multas y lo que se renueva solo. Tip: pedile que te cite la cláusula exacta, y leela vos. ¿Qué contrato firmaste sin leer? Comentá y seguinos.",
+   "titulo": "Antes de firmar, pasale la letra chica a Claude #shorts",
+   "caption": "Antes de firmar, pegale la letra chica a Claude 📄 Le preguntás \"¿qué me puede salir caro?\" y te marca aumentos, multas y lo que se renueva solo.\n\nTip: pedile que te cite la cláusula exacta y leela vos, que la IA también se equivoca 🔍\n\n¿Qué contrato firmaste sin leer? Comentá 👇\n\n#claude #inteligenciaartificial #contratos #niideache",
+   "guion": "Antes de firmar, pegale la letra chica a Claude. Copiás el contrato del alquiler o del plan del celular. Y le preguntás: ¿qué me puede salir caro? Te marca los aumentos, las multas y lo que se renueva solo. Tip: pedile que te cite la cláusula exacta. Y leela vos: la inteligencia artificial también se equivoca.",
    "estilo": "Lego",
    "panel": {
     "ganchos": [
@@ -89,11 +89,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-18-b.mp4"
   },
   {
    "fecha": "2026-11-17",
