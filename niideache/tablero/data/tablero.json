@@ -1,7 +1,85 @@
 {
- "actualizado": "18/11 23:40",
+ "actualizado": "19/11 08:52",
  "stats": "Suscriptores: 15 | Vistas de Shorts (90 días): 18.666\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-19",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Argentina cerró el río Paraná con tres cadenas. Fue en la Vuelta de Obligado, el 20 de noviembre de 1845. Ahí el río tenía 700 metros de ancho. Las cadenas iban de costa a costa, sobre 24 lanchones. Enfrente: más de 100 barcos ingleses y franceses. Para pasar, cortaron las cadenas a martillazos sobre un yunque.",
+   "estilo": "pixel noche",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Argentina cerró el río Paraná con tres cadenas.",
+      "puntaje": 4.05,
+      "frena": 4.27,
+      "entero": 4.0,
+      "comenta": 3.87
+     },
+     {
+      "texto": "El lunes es feriado por tres cadenas en un río.",
+      "puntaje": 3.95,
+      "frena": 4.13,
+      "entero": 3.8,
+      "comenta": 3.93
+     },
+     {
+      "texto": "Más de 100 barcos, frenados con tres cadenas.",
+      "puntaje": 3.87,
+      "frena": 4.2,
+      "entero": 3.87,
+      "comenta": 3.53
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-19",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Finde largo y cero plan: pedíselo a Claude. Le escribís: somos cuatro, salimos de Rosario, tenemos auto y poca plata. Te arma tres escapadas a menos de 300 kilómetros. Con nafta, comida y qué hacer si llueve. Tip: pedile que deje un 20 por ciento para imprevistos. Los precios chequealos vos: pueden estar viejos.",
+   "estilo": "comic",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Finde largo y cero plan: pedíselo a Claude.",
+      "puntaje": 4.11,
+      "frena": 4.13,
+      "entero": 4.0,
+      "comenta": 4.2
+     },
+     {
+      "texto": "Claude te arma la escapada del finde largo en 10 segundos.",
+      "puntaje": 3.91,
+      "frena": 4.07,
+      "entero": 3.87,
+      "comenta": 3.8
+     },
+     {
+      "texto": "¿Sin plata para el finde largo? Claude te arma el plan.",
+      "puntaje": 3.95,
+      "frena": 4.2,
+      "entero": 3.73,
+      "comenta": 3.93
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-18",
    "slot": "a",
@@ -187,60 +265,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-17-b.mp4"
-  },
-  {
-   "fecha": "2026-11-16",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "¿Te cambiás de puerta? #shorts",
-   "caption": "El problema de Monty Hall 🚪🐐 Si te cambiás de puerta, ganás 2 de cada 3 veces.\n\n¿Te cambiabas o te quedabas? Comentá 👇\n\n#montyhall #paradoja #probabilidad #datoscuriosos #matematica #shorts",
-   "guion": "",
-   "estilo": "",
-   "panel": {},
-   "estado": "publicado Instagram: https://www.instagram.com/reel/Df0BK0koKeB/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-16-a.mp4"
-  },
-  {
-   "fecha": "2026-11-16",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Con la batería de un Tesla cargás tu celular 4.000 veces #shorts",
-   "caption": "Con la batería de un Tesla cargás tu celular 4.000 veces 🔋📱 Abajo del piso lleva 4.416 pilitas apenas más grandes que una AA: juntas ≈ 75.000 Wh. Tu celu: ≈ 18 Wh. Una carga por día = 11 años.\n\n¿Te comprarías uno? Comentá 👇\n\n#tesla #autoselectricos #baterias #niideache",
-   "guion": "Con la batería de un Tesla cargás tu celular cuatro mil veces. Tesla llega a Argentina el viernes, y abajo del piso lleva... más de cuatro mil pilitas, apenas más grandes que una doble A. Juntas guardan setenta y cinco mil watts hora. Tu celular, dieciocho. Cuatro mil cargas: una por día, once años.",
-   "estilo": "flat vector",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Con la batería de un Tesla cargás tu celular cuatro mil veces.",
-      "puntaje": 4.24,
-      "frena": 4.4,
-      "entero": 4.2,
-      "comenta": 4.13
-     },
-     {
-      "texto": "Un Tesla lleva más de cuatro mil pilas abajo del piso.",
-      "puntaje": 3.93,
-      "frena": 4.13,
-      "entero": 3.87,
-      "comenta": 3.8
-     },
-     {
-      "texto": "Tesla llega a Argentina el viernes. ¿Sabés qué esconde abajo del piso?",
-      "puntaje": 3.36,
-      "frena": 3.27,
-      "entero": 3.53,
-      "comenta": 3.27
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/27x6pqUeS0w | Instagram: https://www.instagram.com/reel/Df0oznblLDb/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-16-b.mp4"
   }
  ]
 }
