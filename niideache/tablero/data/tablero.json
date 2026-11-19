@@ -1,6 +1,6 @@
 {
- "actualizado": "19/11 17:49",
- "stats": "Suscriptores: 15 | Vistas de Shorts (90 días): 20.749\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "19/11 19:47",
+ "stats": "Suscriptores: 16 | Vistas de Shorts (90 días): 20.729\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-19",
@@ -65,11 +65,50 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "publicado YouTube: https://youtube.com/shorts/mVvD_CCFhas | Instagram: https://www.instagram.com/reel/Df8HVSLFsG8/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-19-b.mp4"
+  },
+  {
+   "fecha": "2026-11-19",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "Un rayo está 5 veces más caliente que el Sol #shorts",
+   "caption": "Un rayo está 5 veces más caliente que la superficie del Sol ⚡☀️ Casi 30.000 °C contra unos 5.500.\n\nEse calor hace explotar el aire: eso es el trueno. Truco para la próxima tormenta: contá los segundos entre el rayo y el trueno y dividí por 3 = kilómetros hasta la tormenta.\n\n¿Lo sabías? Comentá 👇\n\n#rayos #tormenta #ciencia #niideache",
+   "guion": "Un rayo está cinco veces más caliente que la superficie del Sol. Llega a casi treinta mil grados, en una fracción de segundo. La superficie del Sol tiene unos cinco mil quinientos. Ese calor hace explotar el aire, y eso es el trueno. Contá los segundos entre el rayo y el trueno, y dividí por tres: son los kilómetros hasta la tormenta.",
+   "estilo": "comic",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Un rayo está cinco veces más caliente que la superficie del Sol.",
+      "puntaje": 4.18,
+      "frena": 4.47,
+      "entero": 4.13,
+      "comenta": 3.93
+     },
+     {
+      "texto": "Con un truco simple sabés a cuántos kilómetros está la tormenta.",
+      "puntaje": 3.71,
+      "frena": 3.6,
+      "entero": 3.93,
+      "comenta": 3.6
+     },
+     {
+      "texto": "El trueno es aire que explota.",
+      "puntaje": 3.36,
+      "frena": 3.47,
+      "entero": 3.27,
+      "comenta": 3.33
+     }
+    ]
+   },
+   "estado": "listo",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": "videos/2026-11-19-d.mp4"
   },
   {
    "fecha": "2026-11-18",
