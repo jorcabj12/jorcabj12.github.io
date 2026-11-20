@@ -1,6 +1,6 @@
 {
- "actualizado": "20/11 17:46",
- "stats": "Suscriptores: 16 | Vistas de Shorts (90 días): 21.710\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "20/11 19:48",
+ "stats": "Suscriptores: 17 | Vistas de Shorts (90 días): 21.710\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-20",
@@ -74,7 +74,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/dc0z6TTYbsw | Instagram: https://www.instagram.com/reel/Df-skg0ilyt/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -84,9 +84,9 @@
    "fecha": "2026-11-20",
    "slot": "d",
    "hora": "21:00",
-   "titulo": "",
-   "caption": "",
-   "guion": "Venus tarda más en girar sobre sí misma que en dar la vuelta al Sol. Girar una vez le lleva doscientos cuarenta y tres días nuestros. Su año dura doscientos veinticinco. Y encima gira al revés: allá el Sol sale por el oeste. En Venus cumplirías años antes de que el planeta termine de dar una vuelta. ¿Te mudarías? Comentá.",
+   "titulo": "En Venus un día dura más que un año 🪐 #shorts",
+   "caption": "En Venus un día dura más que un año 🪐 Gira sobre sí misma en 243 días, pero da la vuelta al Sol en 225. Y encima gira al revés: el Sol sale por el oeste. ¿Te mudarías? #venus #espacio #astronomia #niideache",
+   "guion": "Venus tarda más en girar sobre sí misma que en dar la vuelta al Sol. Girar una vez le lleva doscientos cuarenta y tres días nuestros. Su año dura doscientos veinticinco. Y encima gira al revés: allá el Sol sale por el oeste. En Venus cumplirías años antes de que el planeta termine de dar una vuelta. ¿Te mudarías?",
    "estilo": "flat vector",
    "panel": {
     "ganchos": [
@@ -117,7 +117,7 @@
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-20-d.mp4"
   },
   {
    "fecha": "2026-11-19",
