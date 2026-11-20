@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 17:33",
+ "actualizado": "20/11 17:46",
  "stats": "Suscriptores: 16 | Vistas de Shorts (90 días): 21.710\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -45,8 +45,8 @@
    "fecha": "2026-11-20",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Usá Claude para practicar tu próxima entrevista de trabajo 💼 #shorts",
+   "caption": "Antes de tu próxima entrevista, hacé que Claude te entreviste 💼 Pegás el aviso, le pedís que haga de reclutador y que te corrija al final. Tip: pedile que sea exigente. ¿Cuál fue la peor pregunta que te hicieron? 👇 #claude #inteligenciaartificial #entrevistadetrabajo #trabajo #niideache",
    "guion": "Antes de una entrevista de trabajo, pedile a Claude que te entreviste. Pegás el aviso y le decís: hacé de reclutador, de a una pregunta, y después corregime. Te tira las difíciles, como: ¿por qué te fuiste de tu último trabajo? Y al final te marca qué respuesta sonó floja. Tip: pedile que sea exigente. ¿Cuál fue la peor pregunta que te hicieron? Comentá.",
    "estilo": "minimal negro",
    "panel": {
@@ -74,11 +74,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-20-b.mp4"
   },
   {
    "fecha": "2026-11-20",
