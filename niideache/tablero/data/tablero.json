@@ -1,7 +1,124 @@
 {
- "actualizado": "19/11 23:26",
+ "actualizado": "20/11 08:50",
  "stats": "Suscriptores: 16 | Vistas de Shorts (90 días): 20.729\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-20",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Si Colapinto parpadea en la recta de Las Vegas, recorre casi treinta metros a ciegas. Ahí pasa los trescientos cuarenta kilómetros por hora: noventa y cuatro metros por segundo. Una cancha de fútbol en poco más de un segundo. La recta mide casi dos kilómetros y la cruza en unos veinte segundos. ¿Lo mirás este finde? Comentá.",
+   "estilo": "isométrico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Si Colapinto parpadea en la recta de Las Vegas, recorre casi treinta metros a ciegas.",
+      "puntaje": 4.36,
+      "frena": 4.6,
+      "entero": 4.27,
+      "comenta": 4.2
+     },
+     {
+      "texto": "Colapinto cruza una cancha de fútbol en un segundo.",
+      "puntaje": 3.98,
+      "frena": 4.13,
+      "entero": 3.93,
+      "comenta": 3.87
+     },
+     {
+      "texto": "Este finde Colapinto va a ir más rápido que un avión despegando.",
+      "puntaje": 3.62,
+      "frena": 3.8,
+      "entero": 3.53,
+      "comenta": 3.53
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-20",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Antes de una entrevista de trabajo, pedile a Claude que te entreviste. Pegás el aviso y le decís: hacé de reclutador, de a una pregunta, y después corregime. Te tira las difíciles, como: ¿por qué te fuiste de tu último trabajo? Y al final te marca qué respuesta sonó floja. Tip: pedile que sea exigente. ¿Cuál fue la peor pregunta que te hicieron? Comentá.",
+   "estilo": "minimal negro",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Antes de una entrevista de trabajo, pedile a Claude que te entreviste.",
+      "puntaje": 4.07,
+      "frena": 4.0,
+      "entero": 4.13,
+      "comenta": 4.07
+     },
+     {
+      "texto": "La pregunta que más te traba en una entrevista, practicala con Claude.",
+      "puntaje": 3.78,
+      "frena": 3.67,
+      "entero": 3.87,
+      "comenta": 3.8
+     },
+     {
+      "texto": "Usá a Claude de reclutador malo.",
+      "puntaje": 3.49,
+      "frena": 3.73,
+      "entero": 3.33,
+      "comenta": 3.4
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-20",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Venus tarda más en girar sobre sí misma que en dar la vuelta al Sol. Girar una vez le lleva doscientos cuarenta y tres días nuestros. Su año dura doscientos veinticinco. Y encima gira al revés: allá el Sol sale por el oeste. En Venus cumplirías años antes de que el planeta termine de dar una vuelta. ¿Te mudarías? Comentá.",
+   "estilo": "flat vector",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Venus tarda más en girar sobre sí misma que en dar la vuelta al Sol.",
+      "puntaje": 4.11,
+      "frena": 4.27,
+      "entero": 4.07,
+      "comenta": 4.0
+     },
+     {
+      "texto": "En Venus el día dura más que el año.",
+      "puntaje": 4.02,
+      "frena": 4.2,
+      "entero": 3.93,
+      "comenta": 3.93
+     },
+     {
+      "texto": "En Venus el Sol sale por el oeste.",
+      "puntaje": 3.71,
+      "frena": 3.87,
+      "entero": 3.67,
+      "comenta": 3.6
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-19",
    "slot": "a",
@@ -202,99 +319,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-18-b.mp4"
-  },
-  {
-   "fecha": "2026-11-17",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "Una nube chiquita pesa como 3 Obeliscos #shorts",
-   "caption": "Una nube chiquita pesa como 3 Obeliscos ☁️ 1 km³ × ½ gramo de agua por m³ = 500 toneladas, como 100 elefantes. Y flota porque las gotitas son mínimas y el aire que sube las sostiene.\n\nCon las tormentas de hoy, ¿cuántos Obeliscos te cayeron? Comentá 👇\n\n#nubes #clima #ciencia #niideache",
-   "guion": "Una nube chiquita pesa como tres Obeliscos. Mide un kilómetro por lado, con medio gramo de agua en cada metro cúbico. Eso da quinientas toneladas. Cien elefantes. El Obelisco pesa ciento setenta. ¿Y por qué no se cae? Las gotitas son mínimas y el aire que sube las sostiene. Con las tormentas de hoy, ¿cuántos Obeliscos te cayeron encima?",
-   "estilo": "pizarrón",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Una nube chiquita pesa como tres Obeliscos.",
-      "puntaje": 4.31,
-      "frena": 4.47,
-      "entero": 4.2,
-      "comenta": 4.27
-     },
-     {
-      "texto": "¿Cuánto pesa una nube? Más que cien elefantes.",
-      "puntaje": 3.96,
-      "frena": 4.07,
-      "entero": 4.0,
-      "comenta": 3.8
-     },
-     {
-      "texto": "Arriba tuyo flotan quinientas toneladas de agua.",
-      "puntaje": 3.62,
-      "frena": 3.8,
-      "entero": 3.6,
-      "comenta": 3.47
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/S6s0AxcQiXU | Instagram: https://www.instagram.com/reel/Df2VJKKiFAK/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-17-a.mp4"
-  },
-  {
-   "fecha": "2026-11-17",
-   "slot": "c",
-   "hora": "16:00",
-   "titulo": "Tu mezcla es única en la historia #shorts",
-   "caption": "Cada vez que mezclás un mazo de 40 cartas, casi seguro armás un orden que nunca existió 🃏 40! es un 8 seguido de 47 cifras.\n\n¿Lo sabías? Comentá 👇\n\n#cartas #factorial #datoscuriosos #matematica #probabilidad #shorts",
-   "guion": "",
-   "estilo": "",
-   "panel": {},
-   "estado": "extra 16:00 solo Instagram (repuesto del 14/11)",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-17-c.mp4"
-  },
-  {
-   "fecha": "2026-11-17",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Que Claude divida la cuenta del asado #shorts",
-   "caption": "Que Claude divida la cuenta del asado 🥩 Foto al ticket + \"somos 8, Juan no comió carne, Lucía trajo el postre\" y te dice quién pone cuánto (y te arma el mensaje para el grupo). Tip: pedile que muestre la cuenta y chequeala.\n\n¿Quién es el que nunca paga en tu grupo? Etiquetalo 👇\n\n#claude #inteligenciaartificial #asado #niideache",
-   "guion": "Sacale una foto al ticket y que Claude divida la cuenta del asado. Le escribís: somos ocho, Juan no comió carne y Lucía trajo el postre. Lee cada renglón, aunque esté arrugado. Te dice quién pone cuánto y te arma el mensaje para el grupo. Pedile que te muestre la cuenta y chequeala. ¿Quién es el que nunca paga en tu grupo?",
-   "estilo": "glow sketch",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Sacale una foto al ticket y que Claude divida la cuenta del asado.",
-      "puntaje": 4.18,
-      "frena": 4.2,
-      "entero": 4.07,
-      "comenta": 4.27
-     },
-     {
-      "texto": "Dividir la cuenta del asado te lleva diez minutos. Con Claude, diez segundos.",
-      "puntaje": 3.89,
-      "frena": 4.13,
-      "entero": 3.73,
-      "comenta": 3.8
-     },
-     {
-      "texto": "Este canal lo hace una IA, y este es el truco que más uso.",
-      "puntaje": 3.51,
-      "frena": 3.87,
-      "entero": 3.4,
-      "comenta": 3.27
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/_zp3MhczG-8 | Instagram: https://www.instagram.com/reel/Df3HBPomACf/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-17-b.mp4"
   }
  ]
 }
