@@ -1,6 +1,6 @@
 {
- "actualizado": "22/11 17:44",
- "stats": "Suscriptores: 19 | Vistas de Shorts (90 días): 27.113\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "22/11 19:47",
+ "stats": "Suscriptores: 18 | Vistas de Shorts (90 días): 27.113\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-22",
@@ -74,7 +74,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/UZu6GsROxyk | Instagram: https://www.instagram.com/reel/DgD2C2mihBy/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -113,11 +113,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-22-d.mp4"
   },
   {
    "fecha": "2026-11-21",
