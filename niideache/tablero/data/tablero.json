@@ -1,7 +1,124 @@
 {
- "actualizado": "22/11 22:51",
- "stats": "Suscriptores: 18 | Vistas de Shorts (90 días): 27.113\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "23/11 08:51",
+ "stats": "Suscriptores: 18 | Vistas de Shorts (90 días): 27.105\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-23",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Con el feriado de hoy, este año no laburás casi uno de cada tres días. El dos mil veintiséis tiene ciento cuatro días de finde. Sumale quince feriados de lunes a viernes. Ciento diecinueve días sin laburar. Sobre trescientos sesenta y cinco, casi un tercio del año. Y con dos semanas de vacaciones, pasás los ciento treinta.",
+   "estilo": "isométrico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Con el feriado de hoy, este año no laburás casi uno de cada tres días.",
+      "puntaje": 4.41,
+      "frena": 4.6,
+      "entero": 4.2,
+      "comenta": 4.43
+     },
+     {
+      "texto": "Hoy es feriado, ¿pero sabés cuántos días libres tuviste en todo el año?",
+      "puntaje": 3.98,
+      "frena": 4.07,
+      "entero": 3.87,
+      "comenta": 4.0
+     },
+     {
+      "texto": "Ciento diecinueve días: eso es lo que no laburaste este año.",
+      "puntaje": 3.76,
+      "frena": 4.0,
+      "entero": 3.6,
+      "comenta": 3.67
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-23",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Toda el agua de la Tierra entra en una bola de mil trescientos kilómetros. Océanos, hielos, ríos y lagos, todo junto. Va de Buenos Aires a Bariloche. Al lado del planeta es una canica: nueve veces más chica. ¿Y el agua dulce? Una bolita de doscientos setenta kilómetros. De Buenos Aires a Rosario. Para ocho mil millones de personas.",
+   "estilo": "minimal negro",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Toda el agua de la Tierra entra en una sola bola de mil trescientos kilómetros.",
+      "puntaje": 4.24,
+      "frena": 4.4,
+      "entero": 4.13,
+      "comenta": 4.2
+     },
+     {
+      "texto": "Si juntás toda el agua del planeta, no llega ni a Bariloche.",
+      "puntaje": 4.02,
+      "frena": 4.27,
+      "entero": 3.8,
+      "comenta": 4.0
+     },
+     {
+      "texto": "El agua dulce de todo el mundo entra entre Buenos Aires y Rosario.",
+      "puntaje": 3.91,
+      "frena": 4.0,
+      "entero": 3.87,
+      "comenta": 3.87
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-23",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Pagás casi el triple en suscripciones de lo que creés. En Estados Unidos, la gente creía gastar ochenta y seis dólares por mes. Y gastaba doscientos diecinueve. Pegale a Claude el resumen de tu tarjeta, sin el número. Pedile: agrupame los débitos que se repiten todos los meses. Te arma la lista con el total, y vos tachás las que no usás.",
+   "estilo": "flat vector",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Pagás casi el triple en suscripciones de lo que creés.",
+      "puntaje": 4.18,
+      "frena": 4.33,
+      "entero": 4.07,
+      "comenta": 4.13
+     },
+     {
+      "texto": "Hay una suscripción que pagás y no usás. Claude te la encuentra.",
+      "puntaje": 4.07,
+      "frena": 4.2,
+      "entero": 3.93,
+      "comenta": 4.07
+     },
+     {
+      "texto": "Pegale a Claude el resumen de tu tarjeta y pedile que te encuentre las suscripciones.",
+      "puntaje": 3.96,
+      "frena": 3.93,
+      "entero": 3.87,
+      "comenta": 4.07
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-22",
    "slot": "a",
@@ -235,123 +352,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-21-d.mp4"
-  },
-  {
-   "fecha": "2026-11-20",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "Colapinto en Las Vegas: 30 metros a ciegas 🏎️ #shorts",
-   "caption": "Si Colapinto parpadea en la recta de Las Vegas, hace casi 30 metros a ciegas 🏎️ A 340 km/h son 94 metros por segundo: una cancha de fútbol en poco más de un segundo. ¿Lo mirás este finde? 👇 #colapinto #f1 #lasvegasgp #formula1 #niideache",
-   "guion": "Si Colapinto parpadea en la recta de Las Vegas, recorre casi treinta metros a ciegas. Ahí pasa los trescientos cuarenta kilómetros por hora: noventa y cuatro metros por segundo. Una cancha de fútbol en poco más de un segundo. La recta mide casi dos kilómetros y la cruza en unos veinte segundos. ¿Lo mirás este finde? Comentá.",
-   "estilo": "isométrico",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Si Colapinto parpadea en la recta de Las Vegas, recorre casi treinta metros a ciegas.",
-      "puntaje": 4.36,
-      "frena": 4.6,
-      "entero": 4.27,
-      "comenta": 4.2
-     },
-     {
-      "texto": "Colapinto cruza una cancha de fútbol en un segundo.",
-      "puntaje": 3.98,
-      "frena": 4.13,
-      "entero": 3.93,
-      "comenta": 3.87
-     },
-     {
-      "texto": "Este finde Colapinto va a ir más rápido que un avión despegando.",
-      "puntaje": 3.62,
-      "frena": 3.8,
-      "entero": 3.53,
-      "comenta": 3.53
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/AGdWC6eNk60 | Instagram: https://www.instagram.com/reel/Df-DlEsDXJi/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-20-a.mp4"
-  },
-  {
-   "fecha": "2026-11-20",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Usá Claude para practicar tu próxima entrevista de trabajo 💼 #shorts",
-   "caption": "Antes de tu próxima entrevista, hacé que Claude te entreviste 💼 Pegás el aviso, le pedís que haga de reclutador y que te corrija al final. Tip: pedile que sea exigente. ¿Cuál fue la peor pregunta que te hicieron? 👇 #claude #inteligenciaartificial #entrevistadetrabajo #trabajo #niideache",
-   "guion": "Antes de una entrevista de trabajo, pedile a Claude que te entreviste. Pegás el aviso y le decís: hacé de reclutador, de a una pregunta, y después corregime. Te tira las difíciles, como: ¿por qué te fuiste de tu último trabajo? Y al final te marca qué respuesta sonó floja. Tip: pedile que sea exigente. ¿Cuál fue la peor pregunta que te hicieron? Comentá.",
-   "estilo": "minimal negro",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Antes de una entrevista de trabajo, pedile a Claude que te entreviste.",
-      "puntaje": 4.07,
-      "frena": 4.0,
-      "entero": 4.13,
-      "comenta": 4.07
-     },
-     {
-      "texto": "La pregunta que más te traba en una entrevista, practicala con Claude.",
-      "puntaje": 3.78,
-      "frena": 3.67,
-      "entero": 3.87,
-      "comenta": 3.8
-     },
-     {
-      "texto": "Usá a Claude de reclutador malo.",
-      "puntaje": 3.49,
-      "frena": 3.73,
-      "entero": 3.33,
-      "comenta": 3.4
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/dc0z6TTYbsw | Instagram: https://www.instagram.com/reel/Df-skg0ilyt/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-20-b.mp4"
-  },
-  {
-   "fecha": "2026-11-20",
-   "slot": "d",
-   "hora": "21:00",
-   "titulo": "En Venus un día dura más que un año 🪐 #shorts",
-   "caption": "En Venus un día dura más que un año 🪐 Gira sobre sí misma en 243 días, pero da la vuelta al Sol en 225. Y encima gira al revés: el Sol sale por el oeste. ¿Te mudarías? #venus #espacio #astronomia #niideache",
-   "guion": "Venus tarda más en girar sobre sí misma que en dar la vuelta al Sol. Girar una vez le lleva doscientos cuarenta y tres días nuestros. Su año dura doscientos veinticinco. Y encima gira al revés: allá el Sol sale por el oeste. En Venus cumplirías años antes de que el planeta termine de dar una vuelta. ¿Te mudarías?",
-   "estilo": "flat vector",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Venus tarda más en girar sobre sí misma que en dar la vuelta al Sol.",
-      "puntaje": 4.11,
-      "frena": 4.27,
-      "entero": 4.07,
-      "comenta": 4.0
-     },
-     {
-      "texto": "En Venus el día dura más que el año.",
-      "puntaje": 4.02,
-      "frena": 4.2,
-      "entero": 3.93,
-      "comenta": 3.93
-     },
-     {
-      "texto": "En Venus el Sol sale por el oeste.",
-      "puntaje": 3.71,
-      "frena": 3.87,
-      "entero": 3.67,
-      "comenta": 3.6
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/0y5h022J5IE | Instagram: https://www.instagram.com/reel/Df-6RHugp-d/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-20-d.mp4"
   }
  ]
 }
