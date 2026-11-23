@@ -1,14 +1,14 @@
 {
- "actualizado": "23/11 10:16",
+ "actualizado": "23/11 11:48",
  "stats": "Suscriptores: 18 | Vistas de Shorts (90 días): 27.105\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-23",
    "slot": "a",
    "hora": "13:00",
-   "titulo": "",
-   "caption": "",
-   "guion": "Con el feriado de hoy, este año no laburás casi uno de cada tres días. El dos mil veintiséis tiene ciento cuatro días de finde. Sumale quince feriados de lunes a viernes. Ciento diecinueve días sin laburar. Sobre trescientos sesenta y cinco, casi un tercio del año. Y con dos semanas de vacaciones, pasás los ciento treinta.",
+   "titulo": "¿Cuántos días NO laburás en 2026? 🗓️ #shorts",
+   "caption": "Con el feriado de hoy hicimos la cuenta 🗓️ 104 días de finde + 15 feriados en día de semana = 119 días sin laburar en 2026. Casi 1 de cada 3 días del año. Y con dos semanas de vacaciones rozás los 130. ¿Cómo aprovechaste el finde largo? 👇\n\n#feriado #findelargo #calendario #niideache",
+   "guion": "Con el feriado de hoy, este año no laburás casi uno de cada tres días. El dos mil veintiséis tiene ciento cuatro días de finde. Sumale quince feriados de lunes a viernes. Ciento diecinueve días sin laburar. Sobre trescientos sesenta y cinco, casi un tercio del año. Y con dos semanas de vacaciones, rozás los ciento treinta.",
    "estilo": "isométrico",
    "panel": {
     "ganchos": [
@@ -35,11 +35,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-23-a.mp4"
   },
   {
    "fecha": "2026-11-23",
