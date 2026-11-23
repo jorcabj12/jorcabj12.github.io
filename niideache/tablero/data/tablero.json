@@ -1,6 +1,6 @@
 {
- "actualizado": "23/11 11:48",
- "stats": "Suscriptores: 18 | Vistas de Shorts (90 días): 27.105\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "23/11 17:46",
+ "stats": "Suscriptores: 18 | Vistas de Shorts (90 días): 29.650\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-23",
@@ -35,7 +35,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/QEqc1nB4waU | Instagram: https://www.instagram.com/reel/DgFxyH2lNwz/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -45,8 +45,8 @@
    "fecha": "2026-11-23",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Toda el agua de la Tierra en UNA bola 💧 #shorts",
+   "caption": "Toda el agua de la Tierra junta entra en una bola de ~1.385 km 💧 Como de Buenos Aires a Bariloche. ¿Y el agua dulce? Una bolita de 273 km, de BA a Rosario… para 8.000 millones de personas. ¿Te la imaginabas tan chiquita? 👇\n\n#agua #planetatierra #ciencia #niideache",
    "guion": "Toda el agua de la Tierra entra en una bola de mil trescientos kilómetros. Océanos, hielos, ríos y lagos, todo junto. Va de Buenos Aires a Bariloche. Al lado del planeta es una canica: nueve veces más chica. ¿Y el agua dulce? Una bolita de doscientos setenta kilómetros. De Buenos Aires a Rosario. Para ocho mil millones de personas.",
    "estilo": "minimal negro",
    "panel": {
@@ -74,11 +74,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-23-b.mp4"
   },
   {
    "fecha": "2026-11-23",
