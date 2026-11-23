@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 17:46",
+ "actualizado": "23/11 19:46",
  "stats": "Suscriptores: 18 | Vistas de Shorts (90 días): 29.650\nNivel 1 (fans): 500 subs [3%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [1%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -74,7 +74,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/G1tlJ1q_-mc | Instagram: https://www.instagram.com/reel/DgGa7Qfgbm1/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -84,8 +84,8 @@
    "fecha": "2026-11-23",
    "slot": "d",
    "hora": "21:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Pagás casi el TRIPLE en suscripciones 💳 (truco con Claude) #shorts",
+   "caption": "Creían gastar US$86 por mes en suscripciones… y eran US$219 💳 Truco: pegale a Claude el resumen de la tarjeta (¡sin el número!) y pedile que agrupe los débitos que se repiten. Te arma la lista con el total y tachás las que no usás. ¿Cuántas pagás vos? 👇\n\n#suscripciones #claude #finanzaspersonales #niideache",
    "guion": "Pagás casi el triple en suscripciones de lo que creés. En Estados Unidos, la gente creía gastar ochenta y seis dólares por mes. Y gastaba doscientos diecinueve. Pegale a Claude el resumen de tu tarjeta, sin el número. Pedile: agrupame los débitos que se repiten todos los meses. Te arma la lista con el total, y vos tachás las que no usás.",
    "estilo": "flat vector",
    "panel": {
@@ -117,7 +117,7 @@
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-23-d.mp4"
   },
   {
    "fecha": "2026-11-22",
