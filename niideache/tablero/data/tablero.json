@@ -1,7 +1,124 @@
 {
- "actualizado": "23/11 23:23",
- "stats": "Suscriptores: 20 | Vistas de Shorts (90 días): 29.650\nNivel 1 (fans): 500 subs [4%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "24/11 08:52",
+ "stats": "Suscriptores: 21 | Vistas de Shorts (90 días): 29.650\nNivel 1 (fans): 500 subs [4%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-24",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Mientras ves este video se mandan treinta y cinco millones de WhatsApp. Hoy WhatsApp Web es lo más buscado del país, tras el finde largo. En el mundo se mandan más de cien mil millones de mensajes por día. Más de un millón por segundo. En treinta segundos, unos treinta y cinco millones. Doce por cada persona del planeta, todos los días.",
+   "estilo": "pizarrón",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Mientras ves este video se mandan 35 millones de WhatsApp.",
+      "puntaje": 4.24,
+      "frena": 4.4,
+      "entero": 4.13,
+      "comenta": 4.2
+     },
+     {
+      "texto": "Hoy lo más buscado de Argentina es WhatsApp Web, y hay un número que asusta.",
+      "puntaje": 3.98,
+      "frena": 4.07,
+      "entero": 3.87,
+      "comenta": 4.0
+     },
+     {
+      "texto": "Cada persona del planeta manda 12 WhatsApp por día.",
+      "puntaje": 3.87,
+      "frena": 3.93,
+      "entero": 3.8,
+      "comenta": 3.87
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-24",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Hay más árboles en la Tierra que estrellas en nuestra galaxia. La Vía Láctea tiene de cien a cuatrocientos mil millones. Árboles: unos tres billones. Tres millones de millones. Los contaron en 2015, con satélites y mediciones en el suelo. Son unos trescientos setenta y cinco por persona. Pero desde que empezó la agricultura, perdimos casi la mitad.",
+   "estilo": "glow sketch",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Hay más árboles en la Tierra que estrellas en nuestra galaxia.",
+      "puntaje": 4.31,
+      "frena": 4.47,
+      "entero": 4.2,
+      "comenta": 4.27
+     },
+     {
+      "texto": "Te tocan 375 árboles. ¿Dónde están los tuyos?",
+      "puntaje": 4.02,
+      "frena": 4.13,
+      "entero": 3.93,
+      "comenta": 4.0
+     },
+     {
+      "texto": "Hay 3 billones de árboles, y los contaron uno por uno… más o menos.",
+      "puntaje": 3.82,
+      "frena": 3.87,
+      "entero": 3.8,
+      "comenta": 3.8
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-24",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Releer los apuntes es la forma más lenta de estudiar. En un experimento, los que releían recordaban un cuarenta por ciento a la semana. Los que se tomaban examen, un sesenta y uno. Pasale tus apuntes a Claude: tomame diez preguntas tipo final, de a una. Sin darme la respuesta hasta que conteste. Al final, que te diga en qué flojeaste.",
+   "estilo": "Lego",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Releer los apuntes es la forma más lenta de estudiar.",
+      "puntaje": 4.2,
+      "frena": 4.33,
+      "entero": 4.07,
+      "comenta": 4.2
+     },
+     {
+      "texto": "Claude te puede tomar examen antes del final.",
+      "puntaje": 4.0,
+      "frena": 4.07,
+      "entero": 3.93,
+      "comenta": 4.0
+     },
+     {
+      "texto": "Los que se toman examen solos recuerdan 50% más.",
+      "puntaje": 3.93,
+      "frena": 4.0,
+      "entero": 3.87,
+      "comenta": 3.93
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-23",
    "slot": "a",
@@ -235,123 +352,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-22-d.mp4"
-  },
-  {
-   "fecha": "2026-11-21",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "La plata de Endgame apilada mide 3 km 💵 #shorts",
-   "caption": "La plata que hizo Avengers: Endgame, en billetes de 100 dólares apilados, mide 3 km 💵 Son 28 millones de billetes: 45 Obeliscos uno arriba del otro y 28 toneladas. ¿Doomsday la supera? #avengers #doomsday #marvel #niideache",
-   "guion": "Lo que recaudó Avengers Endgame, en billetes de cien dólares apilados, mide tres kilómetros. Salió el tráiler final de Doomsday y esta es la vara: dos mil ochocientos millones de dólares. Son veintiocho millones de billetes. Cada uno mide apenas un décimo de milímetro. Uno arriba del otro: cuarenta y cinco Obeliscos. Y pesan veintiocho toneladas. ¿Doomsday la supera?",
-   "estilo": "Lego",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Lo que recaudó Avengers Endgame, en billetes de cien dólares apilados, mide tres kilómetros.",
-      "puntaje": 4.13,
-      "frena": 4.33,
-      "entero": 4.07,
-      "comenta": 4.0
-     },
-     {
-      "texto": "Doomsday tiene que superar una torre de plata de tres kilómetros.",
-      "puntaje": 4.02,
-      "frena": 4.13,
-      "entero": 3.87,
-      "comenta": 4.07
-     },
-     {
-      "texto": "¿Cuánto mide la plata que hizo Endgame? Más que cuarenta y cinco Obeliscos.",
-      "puntaje": 3.8,
-      "frena": 3.87,
-      "entero": 3.8,
-      "comenta": 3.73
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/aGIlBjAbIMI | Instagram: https://www.instagram.com/reel/DgAoJCCj2fH/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-21-a.mp4"
-  },
-  {
-   "fecha": "2026-11-21",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Te quedan menos sábados de los que creés 📅 #shorts",
-   "caption": "Si vivís 80 años tenés unos 4.000 sábados 📅 A los 30 ya usaste 1.565 y te quedan unos 2.600. Entran todos en una hoja… y hoy tachás uno. ¿En qué lo vas a gastar? #sabado #tiempo #reflexion #niideache",
-   "guion": "Si vivís ochenta años, tenés unos cuatro mil sábados. Ni uno más. El año tiene cincuenta y dos. Si tenés treinta, ya usaste mil quinientos sesenta y cinco. Te quedan unos dos mil seiscientos. Dibujalos como puntitos: entran todos en una hoja. Y hoy tachás uno.",
-   "estilo": "glow sketch",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Si vivís ochenta años, tenés unos cuatro mil sábados. Ni uno más.",
-      "puntaje": 4.2,
-      "frena": 4.27,
-      "entero": 4.13,
-      "comenta": 4.2
-     },
-     {
-      "texto": "Te quedan menos sábados de los que creés.",
-      "puntaje": 4.04,
-      "frena": 4.2,
-      "entero": 3.93,
-      "comenta": 4.0
-     },
-     {
-      "texto": "Una vida entera de sábados entra en una hoja.",
-      "puntaje": 3.78,
-      "frena": 3.8,
-      "entero": 3.87,
-      "comenta": 3.67
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/-On7bYzRHA4 | Instagram: https://www.instagram.com/reel/DgBRQAJD93r/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-21-b.mp4"
-  },
-  {
-   "fecha": "2026-11-21",
-   "slot": "d",
-   "hora": "21:00",
-   "titulo": "Si la Tierra fuera una pelota de fútbol, ¿dónde estaría el Sol? #shorts",
-   "caption": "Si la Tierra fuera una pelota de fútbol, el Sol sería un edificio de 8 pisos… a 25 cuadras ☀️⚽ ¿Te lo imaginabas más cerca? #espacio #sistemasolar #astronomia #niideache",
-   "guion": "Si la Tierra fuera una pelota de fútbol, la Luna sería casi una pelota de tenis. ¿A qué distancia? A seis metros y medio: más que el área chica. El Sol sería una bola de veinticuatro metros: un edificio de ocho pisos. Y estaría a dos kilómetros y medio: veinticinco cuadras. Todo lo del medio, vacío. Su luz tarda ocho minutos en recorrerlas.",
-   "estilo": "pizarrón",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Si la Tierra fuera una pelota de fútbol, la Luna sería casi una pelota de tenis.",
-      "puntaje": 4.09,
-      "frena": 4.2,
-      "entero": 4.13,
-      "comenta": 3.93
-     },
-     {
-      "texto": "El Sol está a veinticinco cuadras de una pelota de fútbol.",
-      "puntaje": 3.89,
-      "frena": 4.0,
-      "entero": 3.87,
-      "comenta": 3.8
-     },
-     {
-      "texto": "La Luna está mucho más lejos de lo que dibujaste en la escuela.",
-      "puntaje": 3.87,
-      "frena": 3.93,
-      "entero": 3.8,
-      "comenta": 3.87
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/9A6ch478E7M | Instagram: https://www.instagram.com/reel/DgBe9vADkbK/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-21-d.mp4"
   }
  ]
 }
