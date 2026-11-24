@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 17:48",
+ "actualizado": "24/11 19:45",
  "stats": "Suscriptores: 22 | Vistas de Shorts (90 días): 32.735\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -74,7 +74,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/02zjdmpfJfE | Instagram: https://www.instagram.com/reel/DgI_yyViM7Q/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -84,8 +84,8 @@
    "fecha": "2026-11-24",
    "slot": "d",
    "hora": "21:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Releer los apuntes es la forma más lenta de estudiar #shorts",
+   "caption": "Releer los apuntes es la forma más lenta de estudiar 📚 Los que se toman examen recuerdan 61% vs 40% a la semana. Pedile a Claude que te tome 10 preguntas tipo final, de a una 🧠 ¿Qué rendís en diciembre? 👇 #estudiar #finales #claude #ia #niideache",
    "guion": "Releer los apuntes es la forma más lenta de estudiar. En un experimento, los que releían recordaban un cuarenta por ciento a la semana. Los que se tomaban examen, un sesenta y uno. Pasale tus apuntes a Claude: tomame diez preguntas tipo final, de a una. Sin darme la respuesta hasta que conteste. Al final, que te diga en qué flojeaste.",
    "estilo": "Lego",
    "panel": {
@@ -113,11 +113,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-24-d.mp4"
   },
   {
    "fecha": "2026-11-23",
