@@ -1,6 +1,6 @@
 {
- "actualizado": "24/11 11:46",
- "stats": "Suscriptores: 21 | Vistas de Shorts (90 días): 29.650\nNivel 1 (fans): 500 subs [4%] + 3M vistas [0%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "24/11 17:48",
+ "stats": "Suscriptores: 22 | Vistas de Shorts (90 días): 32.735\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-24",
@@ -35,7 +35,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/EH9HM0FB5ls | Instagram: https://www.instagram.com/reel/DgIWoOhCQ-K/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -45,8 +45,8 @@
    "fecha": "2026-11-24",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia #shorts",
+   "caption": "Hay más árboles en la Tierra que estrellas en la Vía Láctea 🌳⭐ Unos 3 billones: 375 por persona. Pero perdimos casi la mitad. ¿Cuántos plantaste vos? 👇 #arboles #espacio #naturaleza #niideache",
    "guion": "Hay más árboles en la Tierra que estrellas en nuestra galaxia. La Vía Láctea tiene de cien a cuatrocientos mil millones. Árboles: unos tres billones. Tres millones de millones. Los contaron en 2015, con satélites y mediciones en el suelo. Son unos trescientos setenta y cinco por persona. Pero desde que empezó la agricultura, perdimos casi la mitad.",
    "estilo": "glow sketch",
    "panel": {
@@ -74,11 +74,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-24-b.mp4"
   },
   {
    "fecha": "2026-11-24",
