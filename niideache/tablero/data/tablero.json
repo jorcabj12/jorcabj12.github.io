@@ -1,6 +1,6 @@
 {
- "actualizado": "25/11 17:45",
- "stats": "Suscriptores: 23 | Vistas de Shorts (90 días): 35.248\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "25/11 19:45",
+ "stats": "Suscriptores: 23 | Vistas de Shorts (90 días): 35.237\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-25",
@@ -74,7 +74,7 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "publicado YouTube: https://youtube.com/shorts/1Qq4DQmOpIc | Instagram: https://www.instagram.com/reel/DgLkjhuRbdr/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -84,8 +84,8 @@
    "fecha": "2026-11-25",
    "slot": "d",
    "hora": "21:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "9 de cada 10 ofertas de Black Friday no lo son 🛒 #shorts",
+   "caption": "9 de cada 10 ofertas de Black Friday estaban igual o más baratas antes 😬 Antes de comprar este viernes, pasale la captura a Claude y que te haga las cuentas: total en cuotas, contado y envío. ¿Qué vas a comprar? 👇 #blackfriday #ofertas #claude #ia #niideache",
    "guion": "Nueve de cada diez ofertas de Black Friday no eran ofertas. Un estudio siguió los precios seis meses: antes estaban igual o más baratos. Este viernes, antes de comprar: Pasale a Claude la captura de la oferta. Preguntale cuánto pagás en total y si conviene contado. Pegale tres tiendas: que te diga dónde sale menos con envío.",
    "estilo": "tipográfico",
    "panel": {
@@ -117,7 +117,7 @@
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-25-d.mp4"
   },
   {
    "fecha": "2026-11-24",
