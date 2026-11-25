@@ -1,13 +1,13 @@
 {
- "actualizado": "25/11 08:55",
+ "actualizado": "25/11 11:49",
  "stats": "Suscriptores: 23 | Vistas de Shorts (90 días): 32.735\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-25",
    "slot": "a",
    "hora": "13:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Un mensaje a esta nave tarda un día entero en llegar #shorts",
+   "caption": "Hay una nave tan lejos que un mensaje tarda un día en llegar 🛰️ La Voyager 1 ya está a un día luz: casi 26 mil millones de km. Le decís hola hoy y te contesta pasado mañana. ¿Qué le mandarías? 👇 #voyager1 #espacio #nasa #niideache",
    "guion": "Hay una nave tan lejos que un mensaje tarda un día en llegar. Es la Voyager uno, lanzada en el setenta y siete. Va a sesenta y un mil kilómetros por hora. Mientras ves esto avanza más que de Buenos Aires a Mar del Plata. Y este mes llegó a un día luz: casi veintiséis mil millones de kilómetros. Si le decís hola hoy, te contesta pasado mañana.",
    "estilo": "pixel noche",
    "panel": {
@@ -39,7 +39,7 @@
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-25-a.mp4"
   },
   {
    "fecha": "2026-11-25",
