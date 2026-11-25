@@ -1,7 +1,124 @@
 {
- "actualizado": "25/11 05:52",
- "stats": "Suscriptores: 22 | Vistas de Shorts (90 días): 32.735\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "25/11 08:55",
+ "stats": "Suscriptores: 23 | Vistas de Shorts (90 días): 32.735\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-25",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Hay una nave tan lejos que un mensaje tarda un día en llegar. Es la Voyager uno, lanzada en el setenta y siete. Va a sesenta y un mil kilómetros por hora. Mientras ves esto avanza más que de Buenos Aires a Mar del Plata. Y este mes llegó a un día luz: casi veintiséis mil millones de kilómetros. Si le decís hola hoy, te contesta pasado mañana.",
+   "estilo": "pixel noche",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Hay una nave tan lejos que un mensaje tarda un día en llegar.",
+      "puntaje": 4.25,
+      "frena": 4.31,
+      "entero": 4.24,
+      "comenta": 4.19
+     },
+     {
+      "texto": "Si le decís hola a la Voyager hoy, te contesta pasado mañana.",
+      "puntaje": 4.04,
+      "frena": 4.04,
+      "entero": 4.0,
+      "comenta": 4.08
+     },
+     {
+      "texto": "Este mes un objeto humano llegó a un día luz de la Tierra.",
+      "puntaje": 3.79,
+      "frena": 3.72,
+      "entero": 3.72,
+      "comenta": 3.92
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-25",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Un millón de segundos son apenas once días y medio. Ahora adiviná cuánto son mil millones. No son tres meses ni un año: son treinta y un años. O sea, los cumplís a los treinta y uno y pico. ¿Y un billón de segundos? Treinta y un mil setecientos años. Más del doble de lo que tienen las pinturas de la Cueva de las Manos.",
+   "estilo": "comic",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Un millón de segundos son apenas once días y medio.",
+      "puntaje": 4.13,
+      "frena": 4.17,
+      "entero": 4.09,
+      "comenta": 4.13
+     },
+     {
+      "texto": "Vas a cumplir mil millones de segundos, y es antes de lo que creés.",
+      "puntaje": 3.94,
+      "frena": 3.98,
+      "entero": 3.83,
+      "comenta": 4.0
+     },
+     {
+      "texto": "Mil millones de segundos no son tres meses.",
+      "puntaje": 3.89,
+      "frena": 3.79,
+      "entero": 3.75,
+      "comenta": 4.12
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-25",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Nueve de cada diez ofertas de Black Friday no eran ofertas. Un estudio siguió los precios seis meses: antes estaban igual o más baratos. Este viernes, antes de comprar: Pasale a Claude la captura de la oferta. Preguntale cuánto pagás en total y si conviene contado. Pegale tres tiendas: que te diga dónde sale menos con envío.",
+   "estilo": "tipográfico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Nueve de cada diez ofertas de Black Friday no eran ofertas.",
+      "puntaje": 4.23,
+      "frena": 4.25,
+      "entero": 4.23,
+      "comenta": 4.21
+     },
+     {
+      "texto": "Antes de comprar en el Black Friday, pasale esto a Claude.",
+      "puntaje": 3.86,
+      "frena": 4.09,
+      "entero": 3.72,
+      "comenta": 3.76
+     },
+     {
+      "texto": "El precio tachado del viernes casi nunca es real.",
+      "puntaje": 3.71,
+      "frena": 3.8,
+      "entero": 3.61,
+      "comenta": 3.71
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-24",
    "slot": "a",
