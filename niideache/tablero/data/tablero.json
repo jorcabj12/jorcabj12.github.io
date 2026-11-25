@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 20:57",
+ "actualizado": "25/11 05:52",
  "stats": "Suscriptores: 22 | Vistas de Shorts (90 días): 32.735\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -113,7 +113,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/X4Mg-huVQSA | Instagram: https://www.instagram.com/reel/DgJNcAyjBlA/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -235,123 +235,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-23-d.mp4"
-  },
-  {
-   "fecha": "2026-11-22",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "Todo el Monumental en fila mide una maratón 🏟️ #shorts",
-   "caption": "Todo el Monumental sentado en una sola fila mide 42,5 km: una maratón de hinchas 🏟️🏃 ¿Quién pasa a cuartos, River o Lanús? #river #monumental #futbolargentino #niideache",
-   "guion": "Hoy River juega con Lanús, y su tribuna esconde una maratón. En el Monumental entran más de ochenta y cinco mil personas. Cada una ocupa medio metro de tablón. Ahora sentalas a todas en una sola fila. La fila mide cuarenta y dos kilómetros y medio. Una maratón entera de hinchas, hombro con hombro.",
-   "estilo": "pixel noche",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Hoy River juega con Lanús, y su tribuna esconde una maratón.",
-      "puntaje": 4.4,
-      "frena": 4.47,
-      "entero": 4.47,
-      "comenta": 4.27
-     },
-     {
-      "texto": "Si sentás a todo el Monumental en fila, la fila mide una maratón.",
-      "puntaje": 3.78,
-      "frena": 4.0,
-      "entero": 3.6,
-      "comenta": 3.73
-     },
-     {
-      "texto": "Ochenta y cinco mil hinchas en fila llegan más lejos que tu viaje al laburo.",
-      "puntaje": 3.71,
-      "frena": 3.8,
-      "entero": 3.67,
-      "comenta": 3.67
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/JBQEll4t-5Q | Instagram: https://www.instagram.com/reel/DgDM3rhjbjx/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-22-a.mp4"
-  },
-  {
-   "fecha": "2026-11-22",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Sacale foto a la heladera y que Claude te diga qué cocinar 🍳 #shorts",
-   "caption": "Sacale una foto a la heladera y pedile a Claude 3 recetas con lo que hay 🍳 Tip: que use primero lo que vence. En casa tiramos ~79 kg de comida por persona por año. #claude #ia #recetas #niideache",
-   "guion": "Sacale una foto a tu heladera y que Claude te diga qué cocinar. Le escribís: tres recetas con lo que ves, sin ir al súper. Ve dos huevos, media cebolla y queso: tortilla en quince minutos. Tip: pedile que use primero lo que está por vencerse. En casa tiramos unos setenta y nueve kilos de comida por persona por año. Casi lo que pesa un adulto.",
-   "estilo": "tipográfico",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Sacale una foto a tu heladera y que Claude te diga qué cocinar.",
-      "puntaje": 4.36,
-      "frena": 4.27,
-      "entero": 4.47,
-      "comenta": 4.33
-     },
-     {
-      "texto": "¿No sabés qué cocinar hoy? Mostrale la heladera a Claude.",
-      "puntaje": 4.02,
-      "frena": 4.33,
-      "entero": 4.0,
-      "comenta": 3.73
-     },
-     {
-      "texto": "Tu heladera tiene una cena escondida y Claude la encuentra.",
-      "puntaje": 3.69,
-      "frena": 3.8,
-      "entero": 3.67,
-      "comenta": 3.6
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/UZu6GsROxyk | Instagram: https://www.instagram.com/reel/DgD2C2mihBy/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-22-b.mp4"
-  },
-  {
-   "fecha": "2026-11-22",
-   "slot": "d",
-   "hora": "21:00",
-   "titulo": "Toda la humanidad entra en 10 veces Buenos Aires 🌍 #shorts",
-   "caption": "Toda la humanidad, apretada como en un recital, entra en 10 veces la Ciudad de Buenos Aires 🌍 Y todos los argentinos, en Palermo 😮 ¿Irías a ese recital? #poblacion #buenosaires #mundo #niideache",
-   "guion": "Toda la humanidad entra en diez veces la Ciudad de Buenos Aires. Somos ocho mil doscientos millones de personas. Apretados como en un recital: cuatro por metro cuadrado. Eso da unos dos mil kilómetros cuadrados. Diez Capitales, y el resto del planeta, vacío. Y los cuarenta y seis millones de argentinos entramos en Palermo. Y sobra lugar.",
-   "estilo": "comic",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Toda la humanidad entra en diez veces la Ciudad de Buenos Aires.",
-      "puntaje": 4.47,
-      "frena": 4.53,
-      "entero": 4.27,
-      "comenta": 4.6
-     },
-     {
-      "texto": "Si juntás a toda la humanidad, el resto del planeta queda vacío.",
-      "puntaje": 3.89,
-      "frena": 4.2,
-      "entero": 3.6,
-      "comenta": 3.87
-     },
-     {
-      "texto": "Todos los argentinos entramos en Palermo. Y sobra lugar.",
-      "puntaje": 3.62,
-      "frena": 3.67,
-      "entero": 3.6,
-      "comenta": 3.6
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/UbN5o8RMN68 | Instagram: https://www.instagram.com/reel/DgED0rolm7Q/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-22-d.mp4"
   }
  ]
 }
