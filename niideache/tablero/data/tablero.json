@@ -1,7 +1,124 @@
 {
- "actualizado": "26/11 00:40",
+ "actualizado": "26/11 08:52",
  "stats": "Suscriptores: 23 | Vistas de Shorts (90 días): 35.237\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-26",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "El tráiler de Avengers: Doomsday tuvo quinientos sesenta y tres millones de vistas en un día. Más de seis mil quinientas por segundo. En lo que dura esta frase, se suman casi veinte mil. Toda la Argentina viéndolo doce veces. Récord histórico de Disney. Pero el número uno es Spider-Man: Brand New Day, con setecientos dieciocho millones.",
+   "estilo": "isométrico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "El tráiler de Avengers: Doomsday tuvo 563 millones de vistas en un día.",
+      "puntaje": 4.31,
+      "frena": 4.4,
+      "entero": 4.2,
+      "comenta": 4.33
+     },
+     {
+      "texto": "Toda la Argentina vio el tráiler de Avengers doce veces.",
+      "puntaje": 4.12,
+      "frena": 4.25,
+      "entero": 4.0,
+      "comenta": 4.11
+     },
+     {
+      "texto": "El tráiler de Avengers sumó 6.500 vistas por segundo.",
+      "puntaje": 3.86,
+      "frena": 3.9,
+      "entero": 3.8,
+      "comenta": 3.88
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-26",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Por cada persona hay dos millones y medio de hormigas. Un estudio las contó: unas veinte mil billones. Pesan más que todos los pájaros y mamíferos salvajes juntos. Igual, los humanos pesamos cinco veces más. A una familia de cuatro le tocan diez millones. Más de tres Ciudades de Buenos Aires llenas.",
+   "estilo": "minimal negro",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Por cada persona hay dos millones y medio de hormigas.",
+      "puntaje": 4.18,
+      "frena": 4.3,
+      "entero": 4.1,
+      "comenta": 4.14
+     },
+     {
+      "texto": "A tu familia le tocan diez millones de hormigas.",
+      "puntaje": 4.02,
+      "frena": 4.15,
+      "entero": 3.9,
+      "comenta": 4.01
+     },
+     {
+      "texto": "Las hormigas pesan más que todos los pájaros del mundo.",
+      "puntaje": 3.81,
+      "frena": 3.85,
+      "entero": 3.8,
+      "comenta": 3.78
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-26",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "En el amigo invisible con papelitos, seis de cada diez veces alguien se saca a sí mismo. Sean cinco o cincuenta, siempre ronda el sesenta y tres por ciento. Este año, hacelo distinto: Pasale a Claude la lista de nombres. Pedile el sorteo sin que nadie se toque a sí mismo ni a su pareja. Y cinco ideas de regalo con el presupuesto que pusieron.",
+   "estilo": "flat vector",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "En el amigo invisible con papelitos, 6 de cada 10 veces alguien se saca a sí mismo.",
+      "puntaje": 4.22,
+      "frena": 4.3,
+      "entero": 4.15,
+      "comenta": 4.21
+     },
+     {
+      "texto": "El amigo invisible con papelitos está roto, y es matemática.",
+      "puntaje": 4.0,
+      "frena": 4.1,
+      "entero": 3.9,
+      "comenta": 4.0
+     },
+     {
+      "texto": "Organizás el amigo invisible? Hacé esto antes de cortar papelitos.",
+      "puntaje": 3.74,
+      "frena": 3.7,
+      "entero": 3.75,
+      "comenta": 3.77
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-25",
    "slot": "a",
