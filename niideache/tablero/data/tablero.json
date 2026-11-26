@@ -1,6 +1,6 @@
 {
- "actualizado": "26/11 14:07",
- "stats": "Suscriptores: 23 | Vistas de Shorts (90 días): 35.237\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "26/11 17:45",
+ "stats": "Suscriptores: 23 | Vistas de Shorts (90 días): 38.091\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-26",
@@ -45,8 +45,8 @@
    "fecha": "2026-11-26",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Hay 2,5 millones de hormigas por persona 🐜 #shorts",
+   "caption": "Por cada persona hay 2,5 millones de hormigas 🐜 Son unas 20 mil billones y pesan más que todos los pájaros y mamíferos salvajes juntos. ¿Cuántas viste hoy en tu cocina? #hormigas #naturaleza #ciencia #niideache",
    "guion": "Por cada persona hay dos millones y medio de hormigas. Un estudio las contó: unas veinte mil billones. Pesan más que todos los pájaros y mamíferos salvajes juntos. Igual, los humanos pesamos cinco veces más. A una familia de cuatro le tocan diez millones. Más de tres Ciudades de Buenos Aires llenas.",
    "estilo": "minimal negro",
    "panel": {
@@ -74,11 +74,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-26-b.mp4"
   },
   {
    "fecha": "2026-11-26",
