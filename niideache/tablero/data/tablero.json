@@ -1,6 +1,6 @@
 {
- "actualizado": "27/11 11:46",
- "stats": "Suscriptores: 24 | Vistas de Shorts (90 días): 38.091\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "27/11 17:51",
+ "stats": "Suscriptores: 24 | Vistas de Shorts (90 días): 39.776\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-27",
@@ -35,7 +35,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/h0jzjT20f18 | Instagram: https://www.instagram.com/reel/DgQFAYuhH-m/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -45,8 +45,8 @@
    "fecha": "2026-11-27",
    "slot": "b",
    "hora": "19:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "El largo ideal de un mail (y cómo lograrlo con Claude) #shorts",
+   "caption": "Los mails de 50 a 125 palabras son los más respondidos: más de la mitad recibe respuesta (análisis de +40 millones de mails). Truco: pegá tu borrador en Claude, pedile menos de 100 palabras con el pedido arriba y que te diga qué sacó. ¿Qué mail te cuesta más? 👇 #claude #inteligenciaartificial #productividad #mails #niideache",
    "guion": "Los mails de cincuenta a ciento veinticinco palabras son los más respondidos. Más de la mitad recibe respuesta, en un análisis de cuarenta millones de mails. Más largos, peor. Truco: escribilo como te salga y pegáselo a Claude. Pedile menos de cien palabras, con el pedido arriba. Y que te diga qué sacó.",
    "estilo": "glow sketch",
    "panel": {
@@ -74,11 +74,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-27-b.mp4"
   },
   {
    "fecha": "2026-11-27",
