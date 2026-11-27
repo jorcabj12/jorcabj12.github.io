@@ -1,13 +1,13 @@
 {
- "actualizado": "27/11 09:49",
+ "actualizado": "27/11 11:46",
  "stats": "Suscriptores: 24 | Vistas de Shorts (90 días): 38.091\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
    "fecha": "2026-11-27",
    "slot": "a",
    "hora": "13:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "Black Friday: US$ 137.000 por segundo 💸 #shorts",
+   "caption": "Hoy es Black Friday 💸 En EE.UU. se gastan unos US$ 137.000 por segundo (US$ 11.800 millones online en un día). ¿Y el nombre? No es por el 'rojo al negro': se lo puso la policía de Filadelfia por el caos de tránsito 🚓 ¿Vos comprás algo hoy? #blackfriday #compras #historia #niideache",
    "guion": "Hoy es Black Friday: en Estados Unidos se gastan casi ciento cuarenta mil dólares por segundo. El año pasado fueron once mil ochocientos millones online, en un solo día. Mientras mirás esto, más de tres millones. ¿Y el nombre? No es por las cuentas que pasan del rojo al negro. Se lo puso la policía de Filadelfia, por el caos de autos y gente.",
    "estilo": "pizarrón",
    "panel": {
@@ -35,11 +35,11 @@
      }
     ]
    },
-   "estado": "propuesto",
+   "estado": "listo",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-27-a.mp4"
   },
   {
    "fecha": "2026-11-27",
