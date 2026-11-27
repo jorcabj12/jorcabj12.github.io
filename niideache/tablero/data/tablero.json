@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 17:51",
+ "actualizado": "27/11 19:46",
  "stats": "Suscriptores: 24 | Vistas de Shorts (90 días): 39.776\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
   {
@@ -74,7 +74,7 @@
      }
     ]
    },
-   "estado": "listo",
+   "estado": "publicado YouTube: https://youtube.com/shorts/LmBC0WOH2gE | Instagram: https://www.instagram.com/reel/DgQuKT6s06v/",
    "pausado": false,
    "aprobado": false,
    "cambio": "",
@@ -84,8 +84,8 @@
    "fecha": "2026-11-27",
    "slot": "d",
    "hora": "21:00",
-   "titulo": "",
-   "caption": "",
+   "titulo": "El problema que NADIE pudo resolver: siempre termina en 1 🤯 #shorts",
+   "caption": "Pensá un número: par, dividilo por 2; impar, ×3+1. Repetí… y siempre termina en 1 🤯 El 27 tarda 111 pasos y sube hasta 9.232. Probado con más de 295 trillones de números y nadie lo pudo demostrar: es la conjetura de Collatz (1937). ¿Cuántos pasos te da tu edad? 👇 #matematica #collatz #numeros #niideache",
    "guion": "Pensá un número: termina en uno, y nadie sabe por qué. Par: dividilo por dos. Impar: por tres, más uno. Repetí. El veintisiete tarda ciento once pasos y llega a nueve mil doscientos treinta y dos. Se probó con más de doscientos noventa y cinco trillones. Nadie pudo demostrarlo. Es la conjetura de Collatz, de mil novecientos treinta y siete.",
    "estilo": "Lego",
    "panel": {
@@ -117,7 +117,7 @@
    "pausado": false,
    "aprobado": false,
    "cambio": "",
-   "video": ""
+   "video": "videos/2026-11-27-d.mp4"
   },
   {
    "fecha": "2026-11-26",
