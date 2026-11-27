@@ -1,7 +1,124 @@
 {
- "actualizado": "26/11 22:49",
+ "actualizado": "27/11 08:54",
  "stats": "Suscriptores: 24 | Vistas de Shorts (90 días): 38.091\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-27",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Hoy es Black Friday: en Estados Unidos se gastan casi ciento cuarenta mil dólares por segundo. El año pasado fueron once mil ochocientos millones online, en un solo día. Mientras mirás esto, más de tres millones. ¿Y el nombre? No es por las cuentas que pasan del rojo al negro. Se lo puso la policía de Filadelfia, por el caos de autos y gente.",
+   "estilo": "pizarrón",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Hoy es Black Friday: en Estados Unidos se gastan 140 mil dólares por segundo.",
+      "puntaje": 4.31,
+      "frena": 4.4,
+      "entero": 4.2,
+      "comenta": 4.33
+     },
+     {
+      "texto": "Hoy es Black Friday, y su nombre no significa lo que te contaron.",
+      "puntaje": 4.12,
+      "frena": 4.2,
+      "entero": 4.0,
+      "comenta": 4.16
+     },
+     {
+      "texto": "Mientras ves este reel se gastan 3 millones de dólares.",
+      "puntaje": 4.05,
+      "frena": 4.3,
+      "entero": 3.8,
+      "comenta": 4.05
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-27",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Los mails de cincuenta a ciento veinticinco palabras son los más respondidos. Más de la mitad recibe respuesta, en un análisis de cuarenta millones de mails. Más largos, peor. Truco: escribilo como te salga y pegáselo a Claude. Pedile menos de cien palabras, con el pedido arriba. Y que te diga qué sacó.",
+   "estilo": "glow sketch",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Los mails de 50 a 125 palabras son los más respondidos.",
+      "puntaje": 4.08,
+      "frena": 4.1,
+      "entero": 4.0,
+      "comenta": 4.14
+     },
+     {
+      "texto": "Tus mails no los responde nadie por una razón: son largos.",
+      "puntaje": 3.95,
+      "frena": 4.1,
+      "entero": 3.8,
+      "comenta": 3.95
+     },
+     {
+      "texto": "El truco para que te contesten un mail en 10 segundos.",
+      "puntaje": 3.71,
+      "frena": 3.8,
+      "entero": 3.6,
+      "comenta": 3.73
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-27",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Pensá un número: termina en uno, y nadie sabe por qué. Par: dividilo por dos. Impar: por tres, más uno. Repetí. El veintisiete tarda ciento once pasos y llega a nueve mil doscientos treinta y dos. Se probó con más de doscientos noventa y cinco trillones. Nadie pudo demostrarlo. Es la conjetura de Collatz, de mil novecientos treinta y siete.",
+   "estilo": "Lego",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Pensá un número: te demuestro que termina en 1 (y nadie sabe por qué).",
+      "puntaje": 4.35,
+      "frena": 4.4,
+      "entero": 4.3,
+      "comenta": 4.35
+     },
+     {
+      "texto": "Un problema de primaria que ningún matemático pudo resolver.",
+      "puntaje": 4.18,
+      "frena": 4.3,
+      "entero": 4.1,
+      "comenta": 4.14
+     },
+     {
+      "texto": "Si tu número es par, dividilo por dos. Si es impar...",
+      "puntaje": 3.9,
+      "frena": 3.9,
+      "entero": 3.9,
+      "comenta": 3.9
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-26",
    "slot": "a",
@@ -235,123 +352,6 @@
    "aprobado": false,
    "cambio": "",
    "video": "videos/2026-11-25-d.mp4"
-  },
-  {
-   "fecha": "2026-11-24",
-   "slot": "a",
-   "hora": "13:00",
-   "titulo": "Mientras ves esto se mandan 35 millones de WhatsApp #shorts",
-   "caption": "Mientras ves este reel se mandan unos 35 millones de WhatsApp 📱 Más de 100 mil millones por día, más de un millón por segundo. ¿Cuántos sin leer tenés? 👇 #whatsapp #datos #tecnologia #niideache",
-   "guion": "Mientras ves este video se mandan treinta y cinco millones de WhatsApp. Hoy WhatsApp Web es lo más buscado del país, tras el finde largo. En el mundo se mandan más de cien mil millones de mensajes por día. Más de un millón por segundo. En treinta segundos, unos treinta y cinco millones. Doce por cada persona del planeta, todos los días.",
-   "estilo": "pizarrón",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Mientras ves este video se mandan 35 millones de WhatsApp.",
-      "puntaje": 4.24,
-      "frena": 4.4,
-      "entero": 4.13,
-      "comenta": 4.2
-     },
-     {
-      "texto": "Hoy lo más buscado de Argentina es WhatsApp Web, y hay un número que asusta.",
-      "puntaje": 3.98,
-      "frena": 4.07,
-      "entero": 3.87,
-      "comenta": 4.0
-     },
-     {
-      "texto": "Cada persona del planeta manda 12 WhatsApp por día.",
-      "puntaje": 3.87,
-      "frena": 3.93,
-      "entero": 3.8,
-      "comenta": 3.87
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/EH9HM0FB5ls | Instagram: https://www.instagram.com/reel/DgIWoOhCQ-K/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-24-a.mp4"
-  },
-  {
-   "fecha": "2026-11-24",
-   "slot": "b",
-   "hora": "19:00",
-   "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia #shorts",
-   "caption": "Hay más árboles en la Tierra que estrellas en la Vía Láctea 🌳⭐ Unos 3 billones: 375 por persona. Pero perdimos casi la mitad. ¿Cuántos plantaste vos? 👇 #arboles #espacio #naturaleza #niideache",
-   "guion": "Hay más árboles en la Tierra que estrellas en nuestra galaxia. La Vía Láctea tiene de cien a cuatrocientos mil millones. Árboles: unos tres billones. Tres millones de millones. Los contaron en 2015, con satélites y mediciones en el suelo. Son unos trescientos setenta y cinco por persona. Pero desde que empezó la agricultura, perdimos casi la mitad.",
-   "estilo": "glow sketch",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Hay más árboles en la Tierra que estrellas en nuestra galaxia.",
-      "puntaje": 4.31,
-      "frena": 4.47,
-      "entero": 4.2,
-      "comenta": 4.27
-     },
-     {
-      "texto": "Te tocan 375 árboles. ¿Dónde están los tuyos?",
-      "puntaje": 4.02,
-      "frena": 4.13,
-      "entero": 3.93,
-      "comenta": 4.0
-     },
-     {
-      "texto": "Hay 3 billones de árboles, y los contaron uno por uno… más o menos.",
-      "puntaje": 3.82,
-      "frena": 3.87,
-      "entero": 3.8,
-      "comenta": 3.8
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/02zjdmpfJfE | Instagram: https://www.instagram.com/reel/DgI_yyViM7Q/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-24-b.mp4"
-  },
-  {
-   "fecha": "2026-11-24",
-   "slot": "d",
-   "hora": "21:00",
-   "titulo": "Releer los apuntes es la forma más lenta de estudiar #shorts",
-   "caption": "Releer los apuntes es la forma más lenta de estudiar 📚 Los que se toman examen recuerdan 61% vs 40% a la semana. Pedile a Claude que te tome 10 preguntas tipo final, de a una 🧠 ¿Qué rendís en diciembre? 👇 #estudiar #finales #claude #ia #niideache",
-   "guion": "Releer los apuntes es la forma más lenta de estudiar. En un experimento, los que releían recordaban un cuarenta por ciento a la semana. Los que se tomaban examen, un sesenta y uno. Pasale tus apuntes a Claude: tomame diez preguntas tipo final, de a una. Sin darme la respuesta hasta que conteste. Al final, que te diga en qué flojeaste.",
-   "estilo": "Lego",
-   "panel": {
-    "ganchos": [
-     {
-      "texto": "Releer los apuntes es la forma más lenta de estudiar.",
-      "puntaje": 4.2,
-      "frena": 4.33,
-      "entero": 4.07,
-      "comenta": 4.2
-     },
-     {
-      "texto": "Claude te puede tomar examen antes del final.",
-      "puntaje": 4.0,
-      "frena": 4.07,
-      "entero": 3.93,
-      "comenta": 4.0
-     },
-     {
-      "texto": "Los que se toman examen solos recuerdan 50% más.",
-      "puntaje": 3.93,
-      "frena": 4.0,
-      "entero": 3.87,
-      "comenta": 3.93
-     }
-    ]
-   },
-   "estado": "publicado YouTube: https://youtube.com/shorts/X4Mg-huVQSA | Instagram: https://www.instagram.com/reel/DgJNcAyjBlA/",
-   "pausado": false,
-   "aprobado": false,
-   "cambio": "",
-   "video": "videos/2026-11-24-d.mp4"
   }
  ]
 }
