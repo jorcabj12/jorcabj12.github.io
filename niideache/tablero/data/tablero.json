@@ -1,7 +1,124 @@
 {
- "actualizado": "28/11 05:07",
- "stats": "Suscriptores: 25 | Vistas de Shorts (90 días): 39.776\nNivel 1 (fans): 500 subs [5%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
+ "actualizado": "28/11 08:53",
+ "stats": "Suscriptores: 24 | Vistas de Shorts (90 días): 39.776\nNivel 1 (fans): 500 subs [4%] + 3M vistas [1%]\nNivel 2 (anuncios): 1.000 subs [2%] + 10M vistas [0%] (antes del 1/2/2027; después 20M)",
  "reels": [
+  {
+   "fecha": "2026-11-28",
+   "slot": "a",
+   "hora": "13:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Hoy Colapinto clasifica en Qatar, donde en dos mil veintitrés los pilotos terminaron vomitando. De noche, más de treinta grados y humedad pegajosa. Adentro del auto, casi cincuenta. Ocon vomitó en el casco en la vuelta quince. Sargeant abandonó y Stroll casi se desmaya. Un piloto puede perder tres kilos de sudor. Por eso ahora se corre en noviembre.",
+   "estilo": "pixel noche",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Hoy Colapinto clasifica en Qatar, donde en 2023 los pilotos terminaron vomitando.",
+      "puntaje": 4.38,
+      "frena": 4.5,
+      "entero": 4.3,
+      "comenta": 4.33
+     },
+     {
+      "texto": "Adentro de un F1 en Qatar hacía casi 50 grados.",
+      "puntaje": 4.05,
+      "frena": 4.2,
+      "entero": 3.9,
+      "comenta": 4.05
+     },
+     {
+      "texto": "Un piloto de F1 puede perder 3 kilos en una carrera.",
+      "puntaje": 3.92,
+      "frena": 4.0,
+      "entero": 3.9,
+      "comenta": 3.85
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-28",
+   "slot": "b",
+   "hora": "19:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Tu remera tiene cinco dibujitos que casi nadie sabe leer. Tina es lavado, triángulo lavandina, cuadrado secado. La plancha es planchar y el círculo, tintorería. Cada punto, más calor: tres en la plancha son doscientos grados. Una cruz encima: ni se te ocurra. El truco: foto a la etiqueta, se la pasás a Claude y te dice cómo lavarla sin arruinarla.",
+   "estilo": "tipográfico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Tu remera tiene cinco dibujitos que casi nadie sabe leer.",
+      "puntaje": 4.21,
+      "frena": 4.3,
+      "entero": 4.2,
+      "comenta": 4.13
+     },
+     {
+      "texto": "¿Por qué se te achicó la remera? Por no leer esto.",
+      "puntaje": 4.09,
+      "frena": 4.3,
+      "entero": 3.9,
+      "comenta": 4.07
+     },
+     {
+      "texto": "La plancha con tres puntitos llega a 200 grados.",
+      "puntaje": 3.61,
+      "frena": 3.6,
+      "entero": 3.7,
+      "comenta": 3.53
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
+  {
+   "fecha": "2026-11-28",
+   "slot": "d",
+   "hora": "21:00",
+   "titulo": "",
+   "caption": "",
+   "guion": "Los electrones del cable de tu cargador van más lentos que una tortuga. Avanzan menos de un milímetro por segundo. Para cruzar un metro tardarían horas. Y con la corriente alterna van y vienen cincuenta veces por segundo. O sea, nunca llegan a tu celular. Lo que vuela casi a la velocidad de la luz es el empujón, como una fila de bolitas.",
+   "estilo": "isométrico",
+   "panel": {
+    "ganchos": [
+     {
+      "texto": "Los electrones del cable de tu cargador van más lentos que una tortuga.",
+      "puntaje": 4.35,
+      "frena": 4.5,
+      "entero": 4.3,
+      "comenta": 4.25
+     },
+     {
+      "texto": "La electricidad que carga tu celular nunca llega a tu celular.",
+      "puntaje": 4.18,
+      "frena": 4.3,
+      "entero": 4.1,
+      "comenta": 4.14
+     },
+     {
+      "texto": "¿Qué pasa adentro de la pared cuando cargás el celular?",
+      "puntaje": 3.97,
+      "frena": 4.1,
+      "entero": 3.9,
+      "comenta": 3.91
+     }
+    ]
+   },
+   "estado": "propuesto",
+   "pausado": false,
+   "aprobado": false,
+   "cambio": "",
+   "video": ""
+  },
   {
    "fecha": "2026-11-27",
    "slot": "a",
